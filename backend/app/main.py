@@ -217,8 +217,8 @@ async def run_tests(endpoint: str = Body(..., embed=True), url: str = Body(..., 
 
   # finding a candidate that contains fastapi
   for c in candidates:
-    print(c.path)
-    response = requests.get(owner, repo, c.sha, headers=headers)
+    url = f"https://api.github.com/repos/{owner}/{repo}/git/blobs/{c.sha}"
+    response = requests.get(url, headers=headers)
     response.raise_for_status()
     content = response.json()["content"]
     print(content)
