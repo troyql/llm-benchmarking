@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --shadow-standard: 0px 0px 4px #d1d5dc;
+  --shadow-red: 0px 0px 6px #fb2c36;
+  --shadow-blue: 0px 0px 3px #2b7fff; 
+}
+
+@theme {
+  --color-pass: #1a7f37;
+  --color-fail: #d1242f;
+}

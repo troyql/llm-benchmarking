@@ -1,0 +1,139 @@
+{
+  "prompt": "generate a live transcription of a business meeting",
+  "endpoint": "endpoint",
+  "tests": [
+    {
+      "name": "Empty input",
+      "id": "7de3600f-a9e3-4ef7-89cd-276335cb2e84",
+      "input": "",
+      "output": "output from the tool after content is passed through",
+      "exemplar": {
+        "source": "llm-output",
+        "content": ""
+      },
+      "validation_method": "llm-as-a-judge"
+    },
+    {
+      "name": "Short meeting transcript with speaker labels",
+      "id": "c09f5d60-8d77-4bdc-9325-741ebec602d7",
+      "input": "[00:00] Alice: Good morning, everyone. [00:05] Bob: Morning, Alice. Let's start the agenda.\n[00:10] Alice: First item is Q1 sales figures.",
+      "output": "output from the tool after content is passed through",
+      "exemplar": {
+        "source": "llm-output",
+        "content": ""
+      },
+      "validation_method": "llm-as-a-judge"
+    },
+    {
+      "name": "Long meeting transcript with timestamps and action items",
+      "id": "0eb6eec3-4e15-402f-9ef1-725c9e1b1653",
+      "input": "[00:00] Chair: Welcome to the quarterly review.\n[00:30] Finance: Q1 revenue was $5M, up 10%.\n[01:00] Marketing: Campaign X increased leads by 15%.\n[02:00] Action Item: HR to launch new training program by Q3. [02:30] Finance: Need budget approval.\n[03:00] Chair: Approved. Next, discuss product roadmap.\n[04:30] Product Lead: Version 2.1 release scheduled for next month.\n[05:00] Action Item: Development to finalize specs by end of week.",
+      "output": "output from the tool after content is passed through",
+      "exemplar": {
+        "source": "llm-output",
+        "content": ""
+      },
+      "validation_method": "llm-as-a-judge"
+    },
+    {
+      "name": "Transcript with overlapping speakers and background noise",
+      "id": "b074583f-5caf-4a92-bb3e-c3041aa50f6b",
+      "input": "[00:00] Alice: Okay, so we need to address the\n[00:02] Bob: I think you should focus on the marketing\n[00:04] noise: *laughter*\n[00:05] Alice: Right, marketing is crucial.\n[00:07] noise: *phone rings*",
+      "output": "output from the tool after content is passed through",
+      "exemplar": {
+        "source": "llm-output",
+        "content": ""
+      },
+      "validation_method": "llm-as-a-judge"
+    },
+    {
+      "name": "Transcript missing timestamps",
+      "id": "248615bd-0f90-400e-99dd-3ae3911885a8",
+      "input": "Alice: Let's start with the budget.\nBob: Sure, I have the figures ready.\nCharlie: I will review the marketing spend.\nAlice: Great, let's move on.",
+      "output": "output from the tool after content is passed through",
+      "exemplar": {
+        "source": "llm-output",
+        "content": ""
+      },
+      "validation_method": "llm-as-a-judge"
+    },
+    {
+      "name": "Transcript with speaker names in uppercase",
+      "id": "2050409b-223e-4c1f-9eb1-3e1e20b78539",
+      "input": "[00:00] ALICE: Good afternoon.\n[00:05] BOB: Afternoon, Alice. Let's discuss the timeline.",
+      "output": "output from the tool after content is passed through",
+      "exemplar": {
+        "source": "llm-output",
+        "content": ""
+      },
+      "validation_method": "llm-as-a-judge"
+    },
+    {
+      "name": "Transcript with non-English language segment",
+      "id": "13cfee71-5228-46b0-ad24-36b17bf5d663",
+      "input": "[00:00] Alice: Good morning.\n[00:05] Bob: Buenos d\u00edas, Alice. \u00bfListo para la reuni\u00f3n? \n[00:10] Alice: S\u00ed, listo.",
+      "output": "output from the tool after content is passed through",
+      "exemplar": {
+        "source": "llm-output",
+        "content": ""
+      },
+      "validation_method": "llm-as-a-judge"
+    }
+  ],
+  "results": {
+    "unit_tests": {
+      "runs": [
+        {
+          "test_id": "7de3600f-a9e3-4ef7-89cd-276335cb2e84",
+          "start": 1.0,
+          "end": 2.0,
+          "status": "passed"
+        },
+        {
+          "test_id": "c09f5d60-8d77-4bdc-9325-741ebec602d7",
+          "start": 1.0,
+          "end": 2.0,
+          "status": "passed"
+        },
+        {
+          "test_id": "0eb6eec3-4e15-402f-9ef1-725c9e1b1653",
+          "start": 1.0,
+          "end": 2.0,
+          "status": "passed"
+        },
+        {
+          "test_id": "b074583f-5caf-4a92-bb3e-c3041aa50f6b",
+          "start": 1.0,
+          "end": 2.0,
+          "status": "passed"
+        },
+        {
+          "test_id": "248615bd-0f90-400e-99dd-3ae3911885a8",
+          "start": 1.0,
+          "end": 2.0,
+          "status": "passed"
+        },
+        {
+          "test_id": "2050409b-223e-4c1f-9eb1-3e1e20b78539",
+          "start": 1.0,
+          "end": 2.0,
+          "status": "passed"
+        },
+        {
+          "test_id": "13cfee71-5228-46b0-ad24-36b17bf5d663",
+          "start": 1.0,
+          "end": 2.0,
+          "status": "passed"
+        }
+      ],
+      "stats": {
+        "average": 0.0,
+        "median": 0.0,
+        "slowest": 0.0
+      },
+      "passed": 7,
+      "failed": 0,
+      "errors": 0
+    }
+  }
+}

@@ -1,0 +1,4076 @@
+{
+  "sha": "4c683269f20cd3a4e8b228b5fac1e030ee21faef",
+  "url": "https://api.github.com/repos/troyql/zucchini/git/trees/4c683269f20cd3a4e8b228b5fac1e030ee21faef",
+  "tree": [
+    {
+      "path": ".editorconfig",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e3778260c0d99a7a37523273c9dc9c9ba440c8c",
+      "size": 158,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7e3778260c0d99a7a37523273c9dc9c9ba440c8c"
+    },
+    {
+      "path": ".eslintignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9a5aecf429fd8a0d81fbd5fd37006bfa498d5c1",
+      "size": 4,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a9a5aecf429fd8a0d81fbd5fd37006bfa498d5c1"
+    },
+    {
+      "path": ".gitattributes",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7041a5c2e6e22e1b21bfda091cf2e97206315bd0",
+      "size": 40,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7041a5c2e6e22e1b21bfda091cf2e97206315bd0"
+    },
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "08901f42bd086c685dfe7568a9a35a3ff8b0c575",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/08901f42bd086c685dfe7568a9a35a3ff8b0c575"
+    },
+    {
+      "path": ".github/FUNDING.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b4994e1f98d457373b83f9569484c88faf6fdea",
+      "size": 43,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/4b4994e1f98d457373b83f9569484c88faf6fdea"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1cca7f650b6d43b39d9fdc021b35c532d8f4b748",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/1cca7f650b6d43b39d9fdc021b35c532d8f4b748"
+    },
+    {
+      "path": ".github/workflows/build.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "539535c39d1b0b258736c336e7088a1ca32a4822",
+      "size": 1470,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/539535c39d1b0b258736c336e7088a1ca32a4822"
+    },
+    {
+      "path": ".github/workflows/release-github.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aca9a4a6cc7f1822a8b0c8b4a700373c2a7783a5",
+      "size": 397,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/aca9a4a6cc7f1822a8b0c8b4a700373c2a7783a5"
+    },
+    {
+      "path": ".github/workflows/release-npm.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6990989c290bcaec9d2f691a2481ebb8c38d01ff",
+      "size": 520,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/6990989c290bcaec9d2f691a2481ebb8c38d01ff"
+    },
+    {
+      "path": ".github/workflows/site.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c1fab7edab38e0f9b506492e500f8ad8da7c085",
+      "size": 804,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/3c1fab7edab38e0f9b506492e500f8ad8da7c085"
+    },
+    {
+      "path": ".github/workflows/stale.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a328f00f84dd32e5060375278a66831a6350f1db",
+      "size": 768,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a328f00f84dd32e5060375278a66831a6350f1db"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4fefa94a6c21a750180cd4da86c7d60ea4c2bfe",
+      "size": 167,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/d4fefa94a6c21a750180cd4da86c7d60ea4c2bfe"
+    },
+    {
+      "path": ".mocharc.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55caa64930d782b25a68e0016e308dcab15fa809",
+      "size": 166,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/55caa64930d782b25a68e0016e308dcab15fa809"
+    },
+    {
+      "path": ".nycrc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11ec10c732a27ff9e9fe9843a7b84c304551a9e8",
+      "size": 220,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/11ec10c732a27ff9e9fe9843a7b84c304551a9e8"
+    },
+    {
+      "path": ".prettierignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2153db6309dbfb83e55d3789515610a515530400",
+      "size": 99,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/2153db6309dbfb83e55d3789515610a515530400"
+    },
+    {
+      "path": ".prettierrc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eaaa46cd3d97b070de0a0ce2210e2a7eac2c2a91",
+      "size": 69,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/eaaa46cd3d97b070de0a0ce2210e2a7eac2c2a91"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ceb62dd3a481af403e2b9123aefaa9f7e5a4d9e6",
+      "size": 96081,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/ceb62dd3a481af403e2b9123aefaa9f7e5a4d9e6"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2bda7f3c417af86019fcda5ed583e38af0cab08a",
+      "size": 3942,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/2bda7f3c417af86019fcda5ed583e38af0cab08a"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45973cd7faef94c4e29d0c1be2bfe36ea998efe6",
+      "size": 1089,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/45973cd7faef94c4e29d0c1be2bfe36ea998efe6"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12e6a79abad82bf6da722ca466dbc5ccaf3842a4",
+      "size": 5071,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/12e6a79abad82bf6da722ca466dbc5ccaf3842a4"
+    },
+    {
+      "path": "RELEASING.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71e0bb87728a076c2a642886ffe0d1a037593725",
+      "size": 85,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/71e0bb87728a076c2a642886ffe0d1a037593725"
+    },
+    {
+      "path": "UPGRADING.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b725f600c9e23ff06808a5277afbf1878add4bcd",
+      "size": 9916,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b725f600c9e23ff06808a5277afbf1878add4bcd"
+    },
+    {
+      "path": "api",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a3ba9c6097c6b9d93727ba061afa163255e98562",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/a3ba9c6097c6b9d93727ba061afa163255e98562"
+    },
+    {
+      "path": "api/index.d.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ade5a81b74beb98daa8d9d365d140c216306d180",
+      "size": 190,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/ade5a81b74beb98daa8d9d365d140c216306d180"
+    },
+    {
+      "path": "bin",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d53f5f0b0c3948b20fc25f86c22fe42badfc4527",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/d53f5f0b0c3948b20fc25f86c22fe42badfc4527"
+    },
+    {
+      "path": "bin/cucumber-js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2460cb264ebc7a8bd9441b219d81840fb8699e9e",
+      "size": 61,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/2460cb264ebc7a8bd9441b219d81840fb8699e9e"
+    },
+    {
+      "path": "bin/cucumber.js",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2460cb264ebc7a8bd9441b219d81840fb8699e9e",
+      "size": 61,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/2460cb264ebc7a8bd9441b219d81840fb8699e9e"
+    },
+    {
+      "path": "compatibility",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "00baee5acbf0cdf7ed7f0e0cc9f2cc48ebcfec97",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/00baee5acbf0cdf7ed7f0e0cc9f2cc48ebcfec97"
+    },
+    {
+      "path": "compatibility/cck_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd4fbc68a17eab9b7b4e9409de79c66247182291",
+      "size": 4133,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/fd4fbc68a17eab9b7b4e9409de79c66247182291"
+    },
+    {
+      "path": "compatibility/features",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a44a76ffb16f5baa8871b55d7559004b637f2ad5",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/a44a76ffb16f5baa8871b55d7559004b637f2ad5"
+    },
+    {
+      "path": "compatibility/features/ambiguous",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8691d14408101ca2cd52ddb8f4eb75c6ea1fc304",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/8691d14408101ca2cd52ddb8f4eb75c6ea1fc304"
+    },
+    {
+      "path": "compatibility/features/ambiguous/ambiguous.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55bb8c9bef082f40e3adeba82bd5468ccaca9c6f",
+      "size": 162,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/55bb8c9bef082f40e3adeba82bd5468ccaca9c6f"
+    },
+    {
+      "path": "compatibility/features/attachments",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7f16d075b5ac96e3a415d4bd02c659b80c1489b4",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/7f16d075b5ac96e3a415d4bd02c659b80c1489b4"
+    },
+    {
+      "path": "compatibility/features/attachments/attachments.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9107639b24f95baab2ba7a98b8a69f652b4763d2",
+      "size": 1385,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/9107639b24f95baab2ba7a98b8a69f652b4763d2"
+    },
+    {
+      "path": "compatibility/features/backgrounds",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "154083e90e48ed89588a0bd1e5d0a5a45411bc77",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/154083e90e48ed89588a0bd1e5d0a5a45411bc77"
+    },
+    {
+      "path": "compatibility/features/backgrounds/backgrounds.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14ccfdb80cf393cfcab8a7500b6b16a73e3783bc",
+      "size": 199,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/14ccfdb80cf393cfcab8a7500b6b16a73e3783bc"
+    },
+    {
+      "path": "compatibility/features/cdata",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "35823f7f0ce2442b840298be6a28863fb27285a4",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/35823f7f0ce2442b840298be6a28863fb27285a4"
+    },
+    {
+      "path": "compatibility/features/cdata/cdata.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6c420b5e22eafd8ae56f7e7e4df381a857460404",
+      "size": 187,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/6c420b5e22eafd8ae56f7e7e4df381a857460404"
+    },
+    {
+      "path": "compatibility/features/data-tables",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "623625a57a8d3f946f1cd5b0b9870739e0f2c045",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/623625a57a8d3f946f1cd5b0b9870739e0f2c045"
+    },
+    {
+      "path": "compatibility/features/data-tables/data-tables.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "daa8f629689c813dd8070f650524b41250366441",
+      "size": 394,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/daa8f629689c813dd8070f650524b41250366441"
+    },
+    {
+      "path": "compatibility/features/doc-strings",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5ab05ba2637cf5eb6a25c7f6b52589e2ed6c7173",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/5ab05ba2637cf5eb6a25c7f6b52589e2ed6c7173"
+    },
+    {
+      "path": "compatibility/features/doc-strings/doc-strings.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "945582ab3152ee7e2cf30afe1cd7148d55e357d0",
+      "size": 100,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/945582ab3152ee7e2cf30afe1cd7148d55e357d0"
+    },
+    {
+      "path": "compatibility/features/examples-tables-attachment",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a8ffad848916be8678f7022104d60867c49f7b9a",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/a8ffad848916be8678f7022104d60867c49f7b9a"
+    },
+    {
+      "path": "compatibility/features/examples-tables-attachment/examples-tables-attachment.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c2811f94e5eaba3977856409c432eb9c9aed591",
+      "size": 727,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/8c2811f94e5eaba3977856409c432eb9c9aed591"
+    },
+    {
+      "path": "compatibility/features/examples-tables-undefined",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2db097d959cccc9505f06f2b5848768a23152b94",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/2db097d959cccc9505f06f2b5848768a23152b94"
+    },
+    {
+      "path": "compatibility/features/examples-tables-undefined/examples-tables-undefined.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39d448bb99f0239b93e4f36427e7d9982a556329",
+      "size": 373,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/39d448bb99f0239b93e4f36427e7d9982a556329"
+    },
+    {
+      "path": "compatibility/features/examples-tables",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9068731568c6b5e9c4f9e3a7949c56c8935e3443",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/9068731568c6b5e9c4f9e3a7949c56c8935e3443"
+    },
+    {
+      "path": "compatibility/features/examples-tables/examples-tables.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8020d406f06de0c579bda50970784eeb3cfd38c",
+      "size": 680,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b8020d406f06de0c579bda50970784eeb3cfd38c"
+    },
+    {
+      "path": "compatibility/features/global-hooks",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ce5a15316d77fe795ce0bc627a7026e050855eb8",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/ce5a15316d77fe795ce0bc627a7026e050855eb8"
+    },
+    {
+      "path": "compatibility/features/global-hooks/global-hooks.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16d6f791e8e5c22cd37a9fbe50c1fc9806ab0e5c",
+      "size": 356,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/16d6f791e8e5c22cd37a9fbe50c1fc9806ab0e5c"
+    },
+    {
+      "path": "compatibility/features/hooks-attachment",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "00b0295d5a4741c76003300b881cd9170102ed3b",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/00b0295d5a4741c76003300b881cd9170102ed3b"
+    },
+    {
+      "path": "compatibility/features/hooks-attachment/hooks-attachment.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd6190a6ac02102f3063c5fcefee6bfa6d1721d8",
+      "size": 757,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/fd6190a6ac02102f3063c5fcefee6bfa6d1721d8"
+    },
+    {
+      "path": "compatibility/features/hooks-conditional",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f65f9cb02d05b2af5f140a3ef6a4bad3f672a0d3",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/f65f9cb02d05b2af5f140a3ef6a4bad3f672a0d3"
+    },
+    {
+      "path": "compatibility/features/hooks-conditional/hooks-conditional.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76bcc3ab76477263be87430f39251ea5a73fdecd",
+      "size": 401,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/76bcc3ab76477263be87430f39251ea5a73fdecd"
+    },
+    {
+      "path": "compatibility/features/hooks-named",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "66602d99227cfaa8a97582cf87befae1c20bceb8",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/66602d99227cfaa8a97582cf87befae1c20bceb8"
+    },
+    {
+      "path": "compatibility/features/hooks-named/hooks-named.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37bc897f516aec9bdb44c69b8114bcf5e6c31fd0",
+      "size": 238,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/37bc897f516aec9bdb44c69b8114bcf5e6c31fd0"
+    },
+    {
+      "path": "compatibility/features/hooks-skipped",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1a4c9eb74321b8ec59366fbbc25021a7ac723f29",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/1a4c9eb74321b8ec59366fbbc25021a7ac723f29"
+    },
+    {
+      "path": "compatibility/features/hooks-skipped/hooks-skipped.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c0c5132d54dc46c4dd9a00230120b27e281816f9",
+      "size": 461,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/c0c5132d54dc46c4dd9a00230120b27e281816f9"
+    },
+    {
+      "path": "compatibility/features/hooks-undefined",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7d2f0f62eb63efaed3d35d21ed96ee26144a0060",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/7d2f0f62eb63efaed3d35d21ed96ee26144a0060"
+    },
+    {
+      "path": "compatibility/features/hooks-undefined/hooks-undefined.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "919f3fc976bcd4a921c07465014aa284e84db36c",
+      "size": 112,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/919f3fc976bcd4a921c07465014aa284e84db36c"
+    },
+    {
+      "path": "compatibility/features/hooks",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "94f9875a6087f46f9ccad816745dc8388b38cd77",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/94f9875a6087f46f9ccad816745dc8388b38cd77"
+    },
+    {
+      "path": "compatibility/features/hooks/hooks.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b23fc08a8716fdd8c01c137549a768e28f654a95",
+      "size": 251,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b23fc08a8716fdd8c01c137549a768e28f654a95"
+    },
+    {
+      "path": "compatibility/features/markdown",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8e6bc0cf20f4917c0d22669543599fa03168df90",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/8e6bc0cf20f4917c0d22669543599fa03168df90"
+    },
+    {
+      "path": "compatibility/features/markdown/markdown.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "affdee631b9aa84c22dddfd20d871d6adbbdc660",
+      "size": 644,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/affdee631b9aa84c22dddfd20d871d6adbbdc660"
+    },
+    {
+      "path": "compatibility/features/minimal",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5709cc2754dc6b0940b10f28d6f87f681a5d636a",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/5709cc2754dc6b0940b10f28d6f87f681a5d636a"
+    },
+    {
+      "path": "compatibility/features/minimal/minimal.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6eb4a86ddcb5d98c4684234eaa66565e5d57d374",
+      "size": 165,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/6eb4a86ddcb5d98c4684234eaa66565e5d57d374"
+    },
+    {
+      "path": "compatibility/features/multiple-features-reversed",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3cabbd1631521d848ec3061d3b4b4447676b0af1",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/3cabbd1631521d848ec3061d3b4b4447676b0af1"
+    },
+    {
+      "path": "compatibility/features/multiple-features-reversed/multiple-features-reversed.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4c9627ce4055624b86546f985cde772c1234aa4",
+      "size": 104,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/d4c9627ce4055624b86546f985cde772c1234aa4"
+    },
+    {
+      "path": "compatibility/features/multiple-features",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5048a37d671fad7f72a9bce267907be8d11864d9",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/5048a37d671fad7f72a9bce267907be8d11864d9"
+    },
+    {
+      "path": "compatibility/features/multiple-features/multiple-features.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4c9627ce4055624b86546f985cde772c1234aa4",
+      "size": 104,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/d4c9627ce4055624b86546f985cde772c1234aa4"
+    },
+    {
+      "path": "compatibility/features/parameter-types",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1425383e2420bcefb98cc1c203cc6cdf7185fc76",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/1425383e2420bcefb98cc1c203cc6cdf7185fc76"
+    },
+    {
+      "path": "compatibility/features/parameter-types/parameter-types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3dd38b4d683601cc0c8c9f71eabe0b7fcc39d57",
+      "size": 501,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b3dd38b4d683601cc0c8c9f71eabe0b7fcc39d57"
+    },
+    {
+      "path": "compatibility/features/pending",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5a648f9ecb24293473ca79a436c38321605806f2",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/5a648f9ecb24293473ca79a436c38321605806f2"
+    },
+    {
+      "path": "compatibility/features/pending/pending.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7caca772f756612981edaa1ff0e732731f61e736",
+      "size": 257,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7caca772f756612981edaa1ff0e732731f61e736"
+    },
+    {
+      "path": "compatibility/features/regular-expression",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e3e5eec53fa43129257ffa8cde64f4472218a1ba",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/e3e5eec53fa43129257ffa8cde64f4472218a1ba"
+    },
+    {
+      "path": "compatibility/features/regular-expression/regular-expression.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28a569cd3662344219a82e4ae65f8620bad1268a",
+      "size": 184,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/28a569cd3662344219a82e4ae65f8620bad1268a"
+    },
+    {
+      "path": "compatibility/features/retry-ambiguous",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "efb91c403a5b6d108e5e095bd22c837e80f7ab25",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/efb91c403a5b6d108e5e095bd22c837e80f7ab25"
+    },
+    {
+      "path": "compatibility/features/retry-ambiguous/retry-ambiguous.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27a2888ff4882483d27b59926f53920c5e65e912",
+      "size": 158,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/27a2888ff4882483d27b59926f53920c5e65e912"
+    },
+    {
+      "path": "compatibility/features/retry-pending",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5aecc6af78896d6ec77738ed3f476f58fb604597",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/5aecc6af78896d6ec77738ed3f476f58fb604597"
+    },
+    {
+      "path": "compatibility/features/retry-pending/retry-pending.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd630c62bb2cfd3ce74a4c74973263aa06f8c6aa",
+      "size": 98,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/fd630c62bb2cfd3ce74a4c74973263aa06f8c6aa"
+    },
+    {
+      "path": "compatibility/features/retry-undefined",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "859e3ad320da6b5a7fc47f49e8b85d51be4f8c92",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/859e3ad320da6b5a7fc47f49e8b85d51be4f8c92"
+    },
+    {
+      "path": "compatibility/features/retry-undefined/retry-undefined.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab9ea547aaf64d71552733bf88159e196a0c9e96",
+      "size": 60,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/ab9ea547aaf64d71552733bf88159e196a0c9e96"
+    },
+    {
+      "path": "compatibility/features/retry",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b80919b494295ed93998ab4de02fb0b47ef86bf5",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/b80919b494295ed93998ab4de02fb0b47ef86bf5"
+    },
+    {
+      "path": "compatibility/features/retry/retry.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "888982124d038f31feb2679bd283be7332f7060f",
+      "size": 542,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/888982124d038f31feb2679bd283be7332f7060f"
+    },
+    {
+      "path": "compatibility/features/rules-backgrounds",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "51e6fb50dcfe7cfc953b3d1b4597840942be3798",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/51e6fb50dcfe7cfc953b3d1b4597840942be3798"
+    },
+    {
+      "path": "compatibility/features/rules-backgrounds/rules-backgrounds.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14ccfdb80cf393cfcab8a7500b6b16a73e3783bc",
+      "size": 199,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/14ccfdb80cf393cfcab8a7500b6b16a73e3783bc"
+    },
+    {
+      "path": "compatibility/features/rules",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cf29ff69adffa629c12347a99047ffa237a52945",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/cf29ff69adffa629c12347a99047ffa237a52945"
+    },
+    {
+      "path": "compatibility/features/rules/rules.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27eca9eb6882ce40db30f21d53f872386f899414",
+      "size": 664,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/27eca9eb6882ce40db30f21d53f872386f899414"
+    },
+    {
+      "path": "compatibility/features/skipped",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "14c14d64febe611e9be91f7865b97c9ff5070f57",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/14c14d64febe611e9be91f7865b97c9ff5070f57"
+    },
+    {
+      "path": "compatibility/features/skipped/skipped.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "904506af46ee5c3b30d113f5488c49def315b309",
+      "size": 222,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/904506af46ee5c3b30d113f5488c49def315b309"
+    },
+    {
+      "path": "compatibility/features/stack-traces",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "26b32f5509a948effc60e296fca030ca35a9a553",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/26b32f5509a948effc60e296fca030ca35a9a553"
+    },
+    {
+      "path": "compatibility/features/stack-traces/stack-traces.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80d544c915790d439026ded98252ec3d99cd0516",
+      "size": 115,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/80d544c915790d439026ded98252ec3d99cd0516"
+    },
+    {
+      "path": "compatibility/features/undefined",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "af66fa7b53c8744c323548267ba68800eed25355",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/af66fa7b53c8744c323548267ba68800eed25355"
+    },
+    {
+      "path": "compatibility/features/undefined/undefined.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4962f413c048c08c674e379f8723ec903a655350",
+      "size": 161,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/4962f413c048c08c674e379f8723ec903a655350"
+    },
+    {
+      "path": "compatibility/features/unknown-parameter-type",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d3c6215262e25677ac218841efc706af2de982df",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/d3c6215262e25677ac218841efc706af2de982df"
+    },
+    {
+      "path": "compatibility/features/unknown-parameter-type/unknown-parameter-type.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ec4defdab2d46330a051dbb26d73a9fae619aea",
+      "size": 195,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/8ec4defdab2d46330a051dbb26d73a9fae619aea"
+    },
+    {
+      "path": "compatibility/features/unused-steps",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f8dd6c9ef6f96a9039111f20dda00843d78893c4",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/f8dd6c9ef6f96a9039111f20dda00843d78893c4"
+    },
+    {
+      "path": "compatibility/features/unused-steps/unused-steps.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "808cd14e7d1b79a4bbccdcf93859baeda2f3171e",
+      "size": 145,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/808cd14e7d1b79a4bbccdcf93859baeda2f3171e"
+    },
+    {
+      "path": "cucumber.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8cd302548fd342cf8cf323c9cb8a551e05837aa",
+      "size": 394,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a8cd302548fd342cf8cf323c9cb8a551e05837aa"
+    },
+    {
+      "path": "dependency-lint.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8868182a0d6a3436917599af27ba8a3af112cac1",
+      "size": 2074,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/8868182a0d6a3436917599af27ba8a3af112cac1"
+    },
+    {
+      "path": "docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0febee12aadd065fc27e67e8a5d04507bdcff4da",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/0febee12aadd065fc27e67e8a5d04507bdcff4da"
+    },
+    {
+      "path": "docs/cli.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab6f2dd2242c6d1a0cf2c13bbe73460f847d032f",
+      "size": 2389,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/ab6f2dd2242c6d1a0cf2c13bbe73460f847d032f"
+    },
+    {
+      "path": "docs/configuration.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "521992deccb6553aa1658744ef6114905ce9d9a0",
+      "size": 9842,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/521992deccb6553aa1658744ef6114905ce9d9a0"
+    },
+    {
+      "path": "docs/custom_formatters.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82fe0a2c1ec2c0bebe1631761515cc3fdb53338e",
+      "size": 3063,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/82fe0a2c1ec2c0bebe1631761515cc3fdb53338e"
+    },
+    {
+      "path": "docs/custom_snippet_syntaxes.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b7a66b0721a9fafd719381f2113ba10dfe6fb39",
+      "size": 1440,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/2b7a66b0721a9fafd719381f2113ba10dfe6fb39"
+    },
+    {
+      "path": "docs/debugging.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6b9329087a0d63b77e6f8b5357564971b506b2f2",
+      "size": 518,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/6b9329087a0d63b77e6f8b5357564971b506b2f2"
+    },
+    {
+      "path": "docs/deprecations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e4f913ea7d6b99ec61ee7737c0ea0ea58374613",
+      "size": 2452,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7e4f913ea7d6b99ec61ee7737c0ea0ea58374613"
+    },
+    {
+      "path": "docs/dry_run.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5757a74ea3b9a6af301b9e18061f5f9d16c179dc",
+      "size": 846,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/5757a74ea3b9a6af301b9e18061f5f9d16c179dc"
+    },
+    {
+      "path": "docs/esm.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8720a541c9d5874f2e33ad900e4471e5630c826d",
+      "size": 1337,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/8720a541c9d5874f2e33ad900e4471e5630c826d"
+    },
+    {
+      "path": "docs/fail_fast.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9bcc226452b726a63b68ac008f1d0865978c6a53",
+      "size": 615,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/9bcc226452b726a63b68ac008f1d0865978c6a53"
+    },
+    {
+      "path": "docs/faq.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85c7dbf21a0f96376941156435f508e6b5b9c5f3",
+      "size": 2007,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/85c7dbf21a0f96376941156435f508e6b5b9c5f3"
+    },
+    {
+      "path": "docs/filtering.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce73a2aa1e99154ad513ccdf8c62c834174efb53",
+      "size": 2137,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/ce73a2aa1e99154ad513ccdf8c62c834174efb53"
+    },
+    {
+      "path": "docs/first-time-contributor-tutorial.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1aaf7aca9ce73824aa6a0443c6ae450660f4f79",
+      "size": 12000,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f1aaf7aca9ce73824aa6a0443c6ae450660f4f79"
+    },
+    {
+      "path": "docs/formatters.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "519e3b053de98078e9867a356c427973632cffcc",
+      "size": 11598,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/519e3b053de98078e9867a356c427973632cffcc"
+    },
+    {
+      "path": "docs/images",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2d99d373219d90cf8fec0c099cf28ec709e2c073",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/2d99d373219d90cf8fec0c099cf28ec709e2c073"
+    },
+    {
+      "path": "docs/images/html_formatter.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dc899e1da26dc73ec4d67451dfab27a3a6dc4613",
+      "size": 167670,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/dc899e1da26dc73ec4d67451dfab27a3a6dc4613"
+    },
+    {
+      "path": "docs/images/logo.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77509655ae73169d177dc3ce58e7e04a78971211",
+      "size": 1707,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/77509655ae73169d177dc3ce58e7e04a78971211"
+    },
+    {
+      "path": "docs/images/pretty.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e9586a2d1504d1aafacfed8150793a128291cfe",
+      "size": 169293,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7e9586a2d1504d1aafacfed8150793a128291cfe"
+    },
+    {
+      "path": "docs/images/progress.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "79fea358ef3041c565975b0512822411a6b28bda",
+      "size": 56629,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/79fea358ef3041c565975b0512822411a6b28bda"
+    },
+    {
+      "path": "docs/images/progress_bar_green.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7e59d52ad6407c6c76b02a464ff98e70dd025d7",
+      "size": 186661,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f7e59d52ad6407c6c76b02a464ff98e70dd025d7"
+    },
+    {
+      "path": "docs/images/readme-output.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b44a5cbb530e80869b3a4960052fab0d4fdbe2c5",
+      "size": 14348,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b44a5cbb530e80869b3a4960052fab0d4fdbe2c5"
+    },
+    {
+      "path": "docs/images/summary_green.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce6e54d82c327ef68a7fbd8a583764de89c14c8b",
+      "size": 146162,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/ce6e54d82c327ef68a7fbd8a583764de89c14c8b"
+    },
+    {
+      "path": "docs/installation.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c6f062ccca43b8a4993e1c637c69453d02578e8",
+      "size": 3985,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/2c6f062ccca43b8a4993e1c637c69453d02578e8"
+    },
+    {
+      "path": "docs/javascript_api.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d0a7928343dc4fe5c316194ccf3856955c37375",
+      "size": 6115,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/6d0a7928343dc4fe5c316194ccf3856955c37375"
+    },
+    {
+      "path": "docs/older_versions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2886fe89c7a4c5103c64b0643c93817e1f0748f9",
+      "size": 686,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/2886fe89c7a4c5103c64b0643c93817e1f0748f9"
+    },
+    {
+      "path": "docs/parallel.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa711375c470c3f991bc16ef6d5502dd4d75008a",
+      "size": 3046,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/aa711375c470c3f991bc16ef6d5502dd4d75008a"
+    },
+    {
+      "path": "docs/plugins.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1356350e63e5928b41d2fb34bd07b1f4c537b9b5",
+      "size": 6379,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1356350e63e5928b41d2fb34bd07b1f4c537b9b5"
+    },
+    {
+      "path": "docs/profiles.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ff0fcde3641aef24cf6e6cefd725c75ec2d11bb",
+      "size": 5374,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/4ff0fcde3641aef24cf6e6cefd725c75ec2d11bb"
+    },
+    {
+      "path": "docs/rerun.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3f10bd278805210bfddf851a449c83a7edacbc8",
+      "size": 2649,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e3f10bd278805210bfddf851a449c83a7edacbc8"
+    },
+    {
+      "path": "docs/retro",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e06ce828b1801b281b95eabed870ba306f03ad0c",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/e06ce828b1801b281b95eabed870ba306f03ad0c"
+    },
+    {
+      "path": "docs/retro/2021",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f4621de323e81b5092a076e0526f59e98e0378da",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/f4621de323e81b5092a076e0526f59e98e0378da"
+    },
+    {
+      "path": "docs/retro/2021/07",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f9aa395f4765f0f3f9c168b280d5afcea5c73a79",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/f9aa395f4765f0f3f9c168b280d5afcea5c73a79"
+    },
+    {
+      "path": "docs/retro/2021/07/17.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "975eea3abfe7c62103e06f6b957428ae796e73b8",
+      "size": 1989,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/975eea3abfe7c62103e06f6b957428ae796e73b8"
+    },
+    {
+      "path": "docs/retro/2021/08",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f3eeef337be90b4c4e472e0e5508f0870a9320b8",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/f3eeef337be90b4c4e472e0e5508f0870a9320b8"
+    },
+    {
+      "path": "docs/retro/2021/08/06.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2de03e3eeba800fbeeb8ea2ce646fd1c33d8041a",
+      "size": 1709,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/2de03e3eeba800fbeeb8ea2ce646fd1c33d8041a"
+    },
+    {
+      "path": "docs/retro/2022",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "02a12b7887d0d0615e246e4ea621cde02c3ced30",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/02a12b7887d0d0615e246e4ea621cde02c3ced30"
+    },
+    {
+      "path": "docs/retro/2022/01",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b7f4a6654d0f99a481712ace24e15e4089591310",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/b7f4a6654d0f99a481712ace24e15e4089591310"
+    },
+    {
+      "path": "docs/retro/2022/01/14.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "129718da1a12ebd9ffd93097dad572720b712609",
+      "size": 1245,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/129718da1a12ebd9ffd93097dad572720b712609"
+    },
+    {
+      "path": "docs/retro/2022/01/21.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "975f78d6202ca3cb74204605fc76f24f0cb78250",
+      "size": 1812,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/975f78d6202ca3cb74204605fc76f24f0cb78250"
+    },
+    {
+      "path": "docs/retro/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "261644f113154fcb327c2c9e2bbb2f7e0515a861",
+      "size": 560,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/261644f113154fcb327c2c9e2bbb2f7e0515a861"
+    },
+    {
+      "path": "docs/retry.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1b9d5fbe3e4348cacbb81ab0d9d1b60f7b62ad4",
+      "size": 1788,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e1b9d5fbe3e4348cacbb81ab0d9d1b60f7b62ad4"
+    },
+    {
+      "path": "docs/sharding.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "882f86e825024ca1204635736de01f9b7fd39ff3",
+      "size": 1655,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/882f86e825024ca1204635736de01f9b7fd39ff3"
+    },
+    {
+      "path": "docs/snippets.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6540b430a58cca4e4a71f42f8a608b6a3bad87b",
+      "size": 2890,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b6540b430a58cca4e4a71f42f8a608b6a3bad87b"
+    },
+    {
+      "path": "docs/support_files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4dfc4289756b8e3bf3f7d7a3827f47982aa80d8d",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/4dfc4289756b8e3bf3f7d7a3827f47982aa80d8d"
+    },
+    {
+      "path": "docs/support_files/api_reference.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ce8028361742e35a1ca5fa27ac385aabf99fe42",
+      "size": 8147,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/3ce8028361742e35a1ca5fa27ac385aabf99fe42"
+    },
+    {
+      "path": "docs/support_files/attachments.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28535f7a25e2e89c9f6615a04ab042d65e70d801",
+      "size": 4353,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/28535f7a25e2e89c9f6615a04ab042d65e70d801"
+    },
+    {
+      "path": "docs/support_files/data_table_interface.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "74533de7c3a5180f495fb9be251f69fd3806a431",
+      "size": 647,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/74533de7c3a5180f495fb9be251f69fd3806a431"
+    },
+    {
+      "path": "docs/support_files/hooks.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5cdfa3b5cf413b141b6c35a655e6c11118a969bd",
+      "size": 4807,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/5cdfa3b5cf413b141b6c35a655e6c11118a969bd"
+    },
+    {
+      "path": "docs/support_files/step_definitions.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f090d8f2154428aabd31e5ec98a16fe069a29dc3",
+      "size": 3637,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f090d8f2154428aabd31e5ec98a16fe069a29dc3"
+    },
+    {
+      "path": "docs/support_files/timeouts.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4154821d0e849c875ecab75eb03ec901d1e3c789",
+      "size": 1399,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/4154821d0e849c875ecab75eb03ec901d1e3c789"
+    },
+    {
+      "path": "docs/support_files/world.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76bb2a817943d7e94626c713e707a12345649e0d",
+      "size": 8629,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/76bb2a817943d7e94626c713e707a12345649e0d"
+    },
+    {
+      "path": "docs/transpiling.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8c11d6448d2fb17de092dda2b759ec1d36ed20c",
+      "size": 4490,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e8c11d6448d2fb17de092dda2b759ec1d36ed20c"
+    },
+    {
+      "path": "eslint.config.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4d4944cf38d3c47d80d72044fb2f3a2b7331229",
+      "size": 2082,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a4d4944cf38d3c47d80d72044fb2f3a2b7331229"
+    },
+    {
+      "path": "exports",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "65989a8c74aee61d128e60a08c7e03eaf650ac6d",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/65989a8c74aee61d128e60a08c7e03eaf650ac6d"
+    },
+    {
+      "path": "exports/api",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "83058874195b1bc6be5b92993633ecb20b0876ec",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/83058874195b1bc6be5b92993633ecb20b0876ec"
+    },
+    {
+      "path": "exports/api/api-extractor.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c490a93cb6edc5b1f1dbf229a12c4c66fe5da2b6",
+      "size": 740,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/c490a93cb6edc5b1f1dbf229a12c4c66fe5da2b6"
+    },
+    {
+      "path": "exports/api/report.api.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d74235c29b362f29e8e74a0f2b3f0709f0fd181",
+      "size": 7467,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/9d74235c29b362f29e8e74a0f2b3f0709f0fd181"
+    },
+    {
+      "path": "exports/root",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "134933cab938ee39e86eb8b55069c9c6eeef1562",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/134933cab938ee39e86eb8b55069c9c6eeef1562"
+    },
+    {
+      "path": "exports/root/api-extractor.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "894823c8286b08e795e080cf4c8909b6791cd262",
+      "size": 805,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/894823c8286b08e795e080cf4c8909b6791cd262"
+    },
+    {
+      "path": "exports/root/report.api.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0f8334763eba5f2e9ab28bba46e48a26669146b",
+      "size": 17566,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f0f8334763eba5f2e9ab28bba46e48a26669146b"
+    },
+    {
+      "path": "features",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5f1952d74aec9f92fe1ac656a997b0234d5109a0",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/5f1952d74aec9f92fe1ac656a997b0234d5109a0"
+    },
+    {
+      "path": "features/ambiguous_step.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88769f26619294a69c0cbbad9264717b33e410cc",
+      "size": 979,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/88769f26619294a69c0cbbad9264717b33e410cc"
+    },
+    {
+      "path": "features/attachments.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "739134c6effaac2ab7885bd563ecad2c1dcab485",
+      "size": 4718,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/739134c6effaac2ab7885bd563ecad2c1dcab485"
+    },
+    {
+      "path": "features/background.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f0e5da8b902a8e056d8e94e5bfeff9f1ca94b30",
+      "size": 2565,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/4f0e5da8b902a8e056d8e94e5bfeff9f1ca94b30"
+    },
+    {
+      "path": "features/before_after_all_hook_interfaces.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b0dfc9e3f551fda179627b8f3eeba2e662a3f93",
+      "size": 5178,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1b0dfc9e3f551fda179627b8f3eeba2e662a3f93"
+    },
+    {
+      "path": "features/before_after_all_hook_timeouts.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98b164e2764d018fc07f7e466611ac920c662a2c",
+      "size": 1572,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/98b164e2764d018fc07f7e466611ac920c662a2c"
+    },
+    {
+      "path": "features/before_after_all_hooks.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38e56ddb4fe603dce2491625716d4bf3c35a678b",
+      "size": 2523,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/38e56ddb4fe603dce2491625716d4bf3c35a678b"
+    },
+    {
+      "path": "features/before_after_all_hooks_context.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a0bcd9d07e1345aa010aff72faa500bd6c8acf2",
+      "size": 2704,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/8a0bcd9d07e1345aa010aff72faa500bd6c8acf2"
+    },
+    {
+      "path": "features/before_after_step_hooks.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4baa5da2ed5f775ac628c625867ba29e69a99fb",
+      "size": 2693,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/d4baa5da2ed5f775ac628c625867ba29e69a99fb"
+    },
+    {
+      "path": "features/cli.feature.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e463ab62240bc899efcb80c774aa1dc77648bfb8",
+      "size": 1884,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e463ab62240bc899efcb80c774aa1dc77648bfb8"
+    },
+    {
+      "path": "features/colors.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05f6cc537175e71391213e8a8a62443535d801bd",
+      "size": 1251,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/05f6cc537175e71391213e8a8a62443535d801bd"
+    },
+    {
+      "path": "features/core.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89c2c487406cf2aebf6f40991c85aff5844ad5ad",
+      "size": 4199,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/89c2c487406cf2aebf6f40991c85aff5844ad5ad"
+    },
+    {
+      "path": "features/custom_formatter.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9666d6b5fa724f53a3d24448e59d6fd90192e5d5",
+      "size": 5462,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/9666d6b5fa724f53a3d24448e59d6fd90192e5d5"
+    },
+    {
+      "path": "features/data_tables.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68eef1d7fdc9ebff440563536e035908227b6043",
+      "size": 3146,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/68eef1d7fdc9ebff440563536e035908227b6043"
+    },
+    {
+      "path": "features/debug.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d57dca7791f36173afee6e55f605d0b4fed1fcf5",
+      "size": 858,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/d57dca7791f36173afee6e55f605d0b4fed1fcf5"
+    },
+    {
+      "path": "features/direct_imports.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1bebbb903d42063d89a0cb4427d4db89e6b74a62",
+      "size": 2715,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1bebbb903d42063d89a0cb4427d4db89e6b74a62"
+    },
+    {
+      "path": "features/doc_string.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11a3bc974e60b17defdfcab8441ea8f2894b1285",
+      "size": 1698,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/11a3bc974e60b17defdfcab8441ea8f2894b1285"
+    },
+    {
+      "path": "features/dryrun_mode.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c71ff163cd5c0504cd4b61dbbb69aaaad0b66b74",
+      "size": 2931,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/c71ff163cd5c0504cd4b61dbbb69aaaad0b66b74"
+    },
+    {
+      "path": "features/error_formatting.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60251bc5edb38ca78b7790628757c4350a4f9102",
+      "size": 4394,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/60251bc5edb38ca78b7790628757c4350a4f9102"
+    },
+    {
+      "path": "features/esm.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "331d7696ff703517b71cda6a4cdcc60f5a9c9c98",
+      "size": 3590,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/331d7696ff703517b71cda6a4cdcc60f5a9c9c98"
+    },
+    {
+      "path": "features/exit.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1161c592b0e7664d2752199abc182ca1e03b54d8",
+      "size": 1041,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1161c592b0e7664d2752199abc182ca1e03b54d8"
+    },
+    {
+      "path": "features/fail_fast.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60ea0a8d9d95e14c1412e05816a0eeb6850dd4ef",
+      "size": 711,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/60ea0a8d9d95e14c1412e05816a0eeb6850dd4ef"
+    },
+    {
+      "path": "features/failing_steps.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2971635b0f8f93fe54e18eac7637a011d978fdf",
+      "size": 4252,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f2971635b0f8f93fe54e18eac7637a011d978fdf"
+    },
+    {
+      "path": "features/fake_time.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1151bcc1e462b14ee8639c1eccdf323b9f9998c3",
+      "size": 1196,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1151bcc1e462b14ee8639c1eccdf323b9f9998c3"
+    },
+    {
+      "path": "features/fixtures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "28d6bff5b40e12202830deb5dce108f17cffb9ed",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/28d6bff5b40e12202830deb5dce108f17cffb9ed"
+    },
+    {
+      "path": "features/fixtures/formatters",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2ce19e75c5b227217a4c68b8c1211c1405f95aae",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/2ce19e75c5b227217a4c68b8c1211c1405f95aae"
+    },
+    {
+      "path": "features/fixtures/formatters/failed.json.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3dd5fc2110faf298e0dc9c28b4a60195196a9e6b",
+      "size": 800,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/3dd5fc2110faf298e0dc9c28b4a60195196a9e6b"
+    },
+    {
+      "path": "features/fixtures/formatters/failed.message.json.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0f2a1b8aef5f7360999ca827efa71f6b7bab1f7",
+      "size": 3345,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/d0f2a1b8aef5f7360999ca827efa71f6b7bab1f7"
+    },
+    {
+      "path": "features/fixtures/formatters/passed-rule.json.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53bf451bcdbc8d930034a7716573d702356889f5",
+      "size": 758,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/53bf451bcdbc8d930034a7716573d702356889f5"
+    },
+    {
+      "path": "features/fixtures/formatters/passed-rule.message.json.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fdf3444c7dc2787fc1af8cade21d75b06c372277",
+      "size": 3731,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/fdf3444c7dc2787fc1af8cade21d75b06c372277"
+    },
+    {
+      "path": "features/fixtures/formatters/passed-scenario-outline.json.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5dd7c4e906e17832b7968e744899a6e60e7dd737",
+      "size": 1879,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/5dd7c4e906e17832b7968e744899a6e60e7dd737"
+    },
+    {
+      "path": "features/fixtures/formatters/passed-scenario-outline.message.json.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dc3f5a928924ad847fb36fee6691b9395dae142b",
+      "size": 11803,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/dc3f5a928924ad847fb36fee6691b9395dae142b"
+    },
+    {
+      "path": "features/fixtures/formatters/passed-scenario.json.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e639ffca504ece486d958646e676c6514700c570",
+      "size": 752,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e639ffca504ece486d958646e676c6514700c570"
+    },
+    {
+      "path": "features/fixtures/formatters/passed-scenario.message.json.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4c6864c607613b12cc718afd268144b94ce6da0",
+      "size": 3220,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e4c6864c607613b12cc718afd268144b94ce6da0"
+    },
+    {
+      "path": "features/fixtures/formatters/rejected-pickle.json.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7faf17f9b95196967def2ab87eb5e6d0a5e5de4",
+      "size": 20,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/d7faf17f9b95196967def2ab87eb5e6d0a5e5de4"
+    },
+    {
+      "path": "features/fixtures/formatters/rejected-pickle.message.json.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f28ebaf3b6f4fc6035eafe33481abb9755d600a8",
+      "size": 1826,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f28ebaf3b6f4fc6035eafe33481abb9755d600a8"
+    },
+    {
+      "path": "features/fixtures/formatters/retried.json.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4cef8e71e99e9869c1e391340bf0af297c4fc6f7",
+      "size": 752,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/4cef8e71e99e9869c1e391340bf0af297c4fc6f7"
+    },
+    {
+      "path": "features/fixtures/formatters/retried.message.json.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1814eb029e3bff7f4fc873c6b77a51e09931f2b",
+      "size": 4141,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b1814eb029e3bff7f4fc873c6b77a51e09931f2b"
+    },
+    {
+      "path": "features/formatter_paths.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4bab17b3bd8095fde94cfddf476bf2327a6ee53c",
+      "size": 1202,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/4bab17b3bd8095fde94cfddf476bf2327a6ee53c"
+    },
+    {
+      "path": "features/formatters.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd20d7053cc211e0760edf7ab849b13e9ff01b99",
+      "size": 4124,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/bd20d7053cc211e0760edf7ab849b13e9ff01b99"
+    },
+    {
+      "path": "features/gherkin_parse_failure.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "04ab4c6b8cf1810edd786d372066caafe8e34036",
+      "size": 1596,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/04ab4c6b8cf1810edd786d372066caafe8e34036"
+    },
+    {
+      "path": "features/handling_step_errors.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55ab8bb1315633b62312ccaaa5979aa811b71bf3",
+      "size": 899,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/55ab8bb1315633b62312ccaaa5979aa811b71bf3"
+    },
+    {
+      "path": "features/hook_interface.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fcd1b92a5c7ae3a349096dc1aa1fad4a92dd0ab",
+      "size": 5336,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7fcd1b92a5c7ae3a349096dc1aa1fad4a92dd0ab"
+    },
+    {
+      "path": "features/hook_parameter.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8682935d132b2f9131fc7f5775a987e02aa4926",
+      "size": 2541,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e8682935d132b2f9131fc7f5775a987e02aa4926"
+    },
+    {
+      "path": "features/hook_timeouts.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1607f1fd88a610fc107683ce638bcce0b09c08f6",
+      "size": 1984,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1607f1fd88a610fc107683ce638bcce0b09c08f6"
+    },
+    {
+      "path": "features/hooks.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "628bfbf321f7a36092f04cb80eefbc491bb22718",
+      "size": 2477,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/628bfbf321f7a36092f04cb80eefbc491bb22718"
+    },
+    {
+      "path": "features/html_formatter.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9587423b2d2766f8fc76f267f2bc3302f9114cc8",
+      "size": 1238,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/9587423b2d2766f8fc76f267f2bc3302f9114cc8"
+    },
+    {
+      "path": "features/i18n.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0528fff051aa896ad5036bb4417f5c52e5257d1",
+      "size": 1371,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b0528fff051aa896ad5036bb4417f5c52e5257d1"
+    },
+    {
+      "path": "features/invalid_installation.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebb904b4720ec570eecb79a2b148ebd5e0832334",
+      "size": 1113,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/ebb904b4720ec570eecb79a2b148ebd5e0832334"
+    },
+    {
+      "path": "features/language.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4bbe2790921f10fc122c681707ed7af486a279e",
+      "size": 618,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e4bbe2790921f10fc122c681707ed7af486a279e"
+    },
+    {
+      "path": "features/loaders.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a493d8bb5b631b3a3fdd67ad93a47b0c07a1771",
+      "size": 1512,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1a493d8bb5b631b3a3fdd67ad93a47b0c07a1771"
+    },
+    {
+      "path": "features/multiple_formatters.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "624f879df924bcc367a9bbb0c641f82ff3c8cc9e",
+      "size": 791,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/624f879df924bcc367a9bbb0c641f82ff3c8cc9e"
+    },
+    {
+      "path": "features/multiple_hooks.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dffd570e69b09ce4469571a3020dd4d5396fa456",
+      "size": 1361,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/dffd570e69b09ce4469571a3020dd4d5396fa456"
+    },
+    {
+      "path": "features/named_hooks.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be68a4f343666370db0e736e9a5891502ebb845a",
+      "size": 987,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/be68a4f343666370db0e736e9a5891502ebb845a"
+    },
+    {
+      "path": "features/nested_features.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a91ee687562f5054b7641563288bc861012053c9",
+      "size": 713,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a91ee687562f5054b7641563288bc861012053c9"
+    },
+    {
+      "path": "features/order.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2296332fe988d967587a4cf3679aa52f5b30ecd",
+      "size": 1201,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a2296332fe988d967587a4cf3679aa52f5b30ecd"
+    },
+    {
+      "path": "features/parallel.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5bd8ed5b1d230f7ce2ade3c03734ca45ee566db1",
+      "size": 3901,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/5bd8ed5b1d230f7ce2ade3c03734ca45ee566db1"
+    },
+    {
+      "path": "features/parallel_custom_assign.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1594e6769adbbb6401dd5aff40012d5c6346b88a",
+      "size": 2161,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1594e6769adbbb6401dd5aff40012d5c6346b88a"
+    },
+    {
+      "path": "features/parameter_types.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f77e140631f8f4bad63fb8c0d2f065f045cd63c6",
+      "size": 3900,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f77e140631f8f4bad63fb8c0d2f065f045cd63c6"
+    },
+    {
+      "path": "features/passing_steps.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b08c4bca39b25ad176d29a1678719502f204c4d",
+      "size": 1261,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1b08c4bca39b25ad176d29a1678719502f204c4d"
+    },
+    {
+      "path": "features/pending_steps.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "883ec6acb7b975c91516e2cffed3c0f10a2bee88",
+      "size": 1521,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/883ec6acb7b975c91516e2cffed3c0f10a2bee88"
+    },
+    {
+      "path": "features/plugins.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2feaa690b5f94b805e42091a281b329c7e1a647d",
+      "size": 4159,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/2feaa690b5f94b805e42091a281b329c7e1a647d"
+    },
+    {
+      "path": "features/profiles.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f664123ef2a34e5629ddd7f4865cc33f7262b6fc",
+      "size": 3504,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f664123ef2a34e5629ddd7f4865cc33f7262b6fc"
+    },
+    {
+      "path": "features/publish.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca6d04ca629068d613fdbdd4b387a0a28599db0e",
+      "size": 4642,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/ca6d04ca629068d613fdbdd4b387a0a28599db0e"
+    },
+    {
+      "path": "features/require_module.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbea31d60e0967a835956dd2d363396e273b1ba4",
+      "size": 729,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/bbea31d60e0967a835956dd2d363396e273b1ba4"
+    },
+    {
+      "path": "features/rerun_formatter.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c62d8df2401730857fc4b39d8ecfb49339996421",
+      "size": 3110,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/c62d8df2401730857fc4b39d8ecfb49339996421"
+    },
+    {
+      "path": "features/rerun_formatter_subfolder.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a2ac92799c0dd0417d308d205d0ced2aa8bd5d1",
+      "size": 1007,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7a2ac92799c0dd0417d308d205d0ced2aa8bd5d1"
+    },
+    {
+      "path": "features/retry.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6a85300c18ce79639e89e797086d16d17eb5ef4",
+      "size": 17485,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/c6a85300c18ce79639e89e797086d16d17eb5ef4"
+    },
+    {
+      "path": "features/rule.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "690ab752ff05838dadc9d4da2bc565ea5bf01218",
+      "size": 4323,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/690ab752ff05838dadc9d4da2bc565ea5bf01218"
+    },
+    {
+      "path": "features/scenario_outlines.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0538753196541c3a34e45d6ec49d50003d3c049d",
+      "size": 3787,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/0538753196541c3a34e45d6ec49d50003d3c049d"
+    },
+    {
+      "path": "features/scope_proxies.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b5378e82bbb0e584291fad2bf41663523c0319c",
+      "size": 2254,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1b5378e82bbb0e584291fad2bf41663523c0319c"
+    },
+    {
+      "path": "features/sharding.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "932e0e3ad9be46f6c166c537f8a52db060823fa2",
+      "size": 1962,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/932e0e3ad9be46f6c166c537f8a52db060823fa2"
+    },
+    {
+      "path": "features/skipped_steps.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fbc30b551b851354ec33452d9e1893a18ffd465a",
+      "size": 4202,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/fbc30b551b851354ec33452d9e1893a18ffd465a"
+    },
+    {
+      "path": "features/snippets_formatter.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7786a211b5f7dc74c0d55df4535bd24471a9723",
+      "size": 1019,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e7786a211b5f7dc74c0d55df4535bd24471a9723"
+    },
+    {
+      "path": "features/stack_traces.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d62e6e2b00978a6ae801281ad1ea7c7e5b645ef5",
+      "size": 1635,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/d62e6e2b00978a6ae801281ad1ea7c7e5b645ef5"
+    },
+    {
+      "path": "features/step_definition_snippets.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "beab9d03da6820238fda176cee1cf5764356f18f",
+      "size": 2573,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/beab9d03da6820238fda176cee1cf5764356f18f"
+    },
+    {
+      "path": "features/step_definition_snippets_custom_syntax.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9afa507ed62b148c868043e27d895d2815588fc",
+      "size": 3251,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/d9afa507ed62b148c868043e27d895d2815588fc"
+    },
+    {
+      "path": "features/step_definition_snippets_i18n.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "440012d9cf923b9199cf69deae54ce1369f1060e",
+      "size": 1127,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/440012d9cf923b9199cf69deae54ce1369f1060e"
+    },
+    {
+      "path": "features/step_definition_snippets_interfaces.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d1113c4721485267966ebd0f4e546761073d52f",
+      "size": 1273,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7d1113c4721485267966ebd0f4e546761073d52f"
+    },
+    {
+      "path": "features/step_definition_timeouts.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "916af5be6d7dc7efc7637203e7b0e99045cb3ad4",
+      "size": 2906,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/916af5be6d7dc7efc7637203e7b0e99045cb3ad4"
+    },
+    {
+      "path": "features/step_definitions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5e8da699ca1add7847fb2acc2f75c5734824ad62",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/5e8da699ca1add7847fb2acc2f75c5734824ad62"
+    },
+    {
+      "path": "features/step_definitions/cli_steps.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0c0435627cdface95f3b2a0a85a36bc171455b7",
+      "size": 5229,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a0c0435627cdface95f3b2a0a85a36bc171455b7"
+    },
+    {
+      "path": "features/step_definitions/file_steps.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b65f43594a619fa9449b0a14954aeea543bd3ac1",
+      "size": 2323,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b65f43594a619fa9449b0a14954aeea543bd3ac1"
+    },
+    {
+      "path": "features/step_definitions/formatter_steps.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f83ec485b7a0b9a42c065709ae18ea69202ad69f",
+      "size": 3056,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f83ec485b7a0b9a42c065709ae18ea69202ad69f"
+    },
+    {
+      "path": "features/step_definitions/install_steps.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d16b112ce3a12e8b6a30ccd65db60f800c11634",
+      "size": 1910,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/0d16b112ce3a12e8b6a30ccd65db60f800c11634"
+    },
+    {
+      "path": "features/step_definitions/message_steps.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96daff1d1522fd668f7a6f36d4115c6ff692b712",
+      "size": 7155,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/96daff1d1522fd668f7a6f36d4115c6ff692b712"
+    },
+    {
+      "path": "features/step_definitions/parallel_steps.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69778c5b631da07d01645c279f9bfd2a7b1b539f",
+      "size": 4359,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/69778c5b631da07d01645c279f9bfd2a7b1b539f"
+    },
+    {
+      "path": "features/step_definitions/report_server_steps.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "588ceabcf7738557c0059a4123539eb997ca175d",
+      "size": 1622,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/588ceabcf7738557c0059a4123539eb997ca175d"
+    },
+    {
+      "path": "features/step_definitions/usage_json_steps.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e844940f545a23128a5f7d305bd3346db6490d61",
+      "size": 763,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e844940f545a23128a5f7d305bd3346db6490d61"
+    },
+    {
+      "path": "features/step_wrapper_with_options.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63f7428f8f6968b919669cfbf9c3e6d10ecc9727",
+      "size": 1113,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/63f7428f8f6968b919669cfbf9c3e6d10ecc9727"
+    },
+    {
+      "path": "features/strict_mode.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0adf874b95c036146085f6a3715f3c0edfdb2e30",
+      "size": 899,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/0adf874b95c036146085f6a3715f3c0edfdb2e30"
+    },
+    {
+      "path": "features/summary_formatter.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50a40897ae9b9fd3a86c87bfcd485b8a29cfcf2b",
+      "size": 1063,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/50a40897ae9b9fd3a86c87bfcd485b8a29cfcf2b"
+    },
+    {
+      "path": "features/support",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3f6dab966973b84c6798b472779c32ad73f67d7c",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/3f6dab966973b84c6798b472779c32ad73f67d7c"
+    },
+    {
+      "path": "features/support/formatter_output_helpers.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ded1e3c66657f332be9cd770d7f2c42cde73e4e",
+      "size": 3188,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7ded1e3c66657f332be9cd770d7f2c42cde73e4e"
+    },
+    {
+      "path": "features/support/helpers.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77d744f4ab59396d8cb4c610abab096db27afa9d",
+      "size": 534,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/77d744f4ab59396d8cb4c610abab096db27afa9d"
+    },
+    {
+      "path": "features/support/hooks.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae42e8a0c3cc6edb553fd6522fc73ec53755913e",
+      "size": 1973,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/ae42e8a0c3cc6edb553fd6522fc73ec53755913e"
+    },
+    {
+      "path": "features/support/message_helpers.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "006425753778f11085e407e33b8564d7e8e9de43",
+      "size": 6993,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/006425753778f11085e407e33b8564d7e8e9de43"
+    },
+    {
+      "path": "features/support/warn_user_about_enabling_developer_mode.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc318e75258dace059a71660e9726f4e6e1c2e47",
+      "size": 675,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/cc318e75258dace059a71660e9726f4e6e1c2e47"
+    },
+    {
+      "path": "features/support/world.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92551af227949f2a4a1fec14757a401fd3fd2414",
+      "size": 4270,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/92551af227949f2a4a1fec14757a401fd3fd2414"
+    },
+    {
+      "path": "features/tagged_hooks.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d103cd0cb99bb2d2e16e5e6a1ab0fd81fbcadac8",
+      "size": 1648,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/d103cd0cb99bb2d2e16e5e6a1ab0fd81fbcadac8"
+    },
+    {
+      "path": "features/target_specific_scenarios_by_line.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9001fd959e1f744732904b553e3c365203e7de9",
+      "size": 1653,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e9001fd959e1f744732904b553e3c365203e7de9"
+    },
+    {
+      "path": "features/target_specific_scenarios_by_name.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4acbcfe59b6567a428af2314334ccfc83b6a36b",
+      "size": 790,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e4acbcfe59b6567a428af2314334ccfc83b6a36b"
+    },
+    {
+      "path": "features/target_specific_scenarios_by_tag.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5238fb791120d900aa107f0b10d62a003cae265b",
+      "size": 1773,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/5238fb791120d900aa107f0b10d62a003cae265b"
+    },
+    {
+      "path": "features/usage_formatter.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1494b9f0d078fc8e7e1bfe6c4d5ed9bec4c941d3",
+      "size": 5264,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1494b9f0d078fc8e7e1bfe6c4d5ed9bec4c941d3"
+    },
+    {
+      "path": "features/usage_json_formatter.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd72a0de32adf8eab78de6dab3571b70ba2ed885",
+      "size": 1304,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/bd72a0de32adf8eab78de6dab3571b70ba2ed885"
+    },
+    {
+      "path": "features/world_in_hooks.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "818a9e21a8ac3280d7f56af6751130b11624aab5",
+      "size": 1869,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/818a9e21a8ac3280d7f56af6751130b11624aab5"
+    },
+    {
+      "path": "features/world_parameters.feature",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3439b6b842ac1914182cdf3710aa665a5bb1aab",
+      "size": 4680,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f3439b6b842ac1914182cdf3710aa665a5bb1aab"
+    },
+    {
+      "path": "package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "760efa603ac882f5603611fcb88a21a117346c7f",
+      "size": 400190,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/760efa603ac882f5603611fcb88a21a117346c7f"
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c87a0a4e36842ccd023b4c3972d3b22b348b5722",
+      "size": 14096,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/c87a0a4e36842ccd023b4c3972d3b22b348b5722"
+    },
+    {
+      "path": "renovate.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c41ab70c496eba8ebf64e80e153c7570dcd249d",
+      "size": 118,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/8c41ab70c496eba8ebf64e80e153c7570dcd249d"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f67c1e764b7821bea3706eaff129d3f0886a7ec7",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/f67c1e764b7821bea3706eaff129d3f0886a7ec7"
+    },
+    {
+      "path": "scripts/remove-empty-sections-changelog.awk",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b91f12e4b43eebf20f240c95835247b5d33d682f",
+      "size": 407,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b91f12e4b43eebf20f240c95835247b5d33d682f"
+    },
+    {
+      "path": "scripts/update-changelog.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "de4d09de5eaecf2eec850f5918b2be467fb42738",
+      "size": 2158,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/de4d09de5eaecf2eec850f5918b2be467fb42738"
+    },
+    {
+      "path": "src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fccbbd3caf7b4b6a7b9868977ee6f2fd4626aa43",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/fccbbd3caf7b4b6a7b9868977ee6f2fd4626aa43"
+    },
+    {
+      "path": "src/api",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "804e85fff3c2f43b0129660356ffd21ddee12018",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/804e85fff3c2f43b0129660356ffd21ddee12018"
+    },
+    {
+      "path": "src/api/convert_configuration.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b7b6a5d76d52daa17c4c6082daff83fbbd49701",
+      "size": 2675,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/8b7b6a5d76d52daa17c4c6082daff83fbbd49701"
+    },
+    {
+      "path": "src/api/convert_configuration_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b661d7629f02481360e9fc7d988434a87232d6a",
+      "size": 2971,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/4b661d7629f02481360e9fc7d988434a87232d6a"
+    },
+    {
+      "path": "src/api/formatters.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5eaa969b4a116aaabf7c1900103db6837ec3ec97",
+      "size": 3097,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/5eaa969b4a116aaabf7c1900103db6837ec3ec97"
+    },
+    {
+      "path": "src/api/gherkin.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "669d87921dad9e051d22a9acdc33cf9b6cfffba1",
+      "size": 1909,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/669d87921dad9e051d22a9acdc33cf9b6cfffba1"
+    },
+    {
+      "path": "src/api/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c1abbbeb34e0744519a884bb3bd41906357a3324",
+      "size": 923,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/c1abbbeb34e0744519a884bb3bd41906357a3324"
+    },
+    {
+      "path": "src/api/load_configuration.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0884086dfcedb3d48218b0ad0db6fd90e2999b66",
+      "size": 1632,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/0884086dfcedb3d48218b0ad0db6fd90e2999b66"
+    },
+    {
+      "path": "src/api/load_configuration_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29a4e2776002fbf338eb7d034e21569f2166a5c1",
+      "size": 1465,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/29a4e2776002fbf338eb7d034e21569f2166a5c1"
+    },
+    {
+      "path": "src/api/load_sources.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "586a9f660a4416fd92781aaba637a5d9104ee4d7",
+      "size": 2020,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/586a9f660a4416fd92781aaba637a5d9104ee4d7"
+    },
+    {
+      "path": "src/api/load_sources_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e42a8f0107f18cb02ad2145f549c3ed0e327574",
+      "size": 4073,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/8e42a8f0107f18cb02ad2145f549c3ed0e327574"
+    },
+    {
+      "path": "src/api/load_support.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e448bd3804cdf3adba52b76d104a0254eebd2b57",
+      "size": 1525,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e448bd3804cdf3adba52b76d104a0254eebd2b57"
+    },
+    {
+      "path": "src/api/load_support_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "115f8a7e39a49fcd64950d6e70d85465abd3f155",
+      "size": 974,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/115f8a7e39a49fcd64950d6e70d85465abd3f155"
+    },
+    {
+      "path": "src/api/plugins.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e77663032b05f81f320eff0e7becc5cffd33df27",
+      "size": 2989,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e77663032b05f81f320eff0e7becc5cffd33df27"
+    },
+    {
+      "path": "src/api/run_cucumber.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83433490a60e67db0a6e56f844a7f501627c5508",
+      "size": 4723,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/83433490a60e67db0a6e56f844a7f501627c5508"
+    },
+    {
+      "path": "src/api/run_cucumber_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1572f719b8d9917906c1b396ec4c647ee2d2efa1",
+      "size": 2889,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1572f719b8d9917906c1b396ec4c647ee2d2efa1"
+    },
+    {
+      "path": "src/api/support.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f803e26083933fe146b76b0dc0606e98fb193ce9",
+      "size": 1398,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f803e26083933fe146b76b0dc0606e98fb193ce9"
+    },
+    {
+      "path": "src/api/test_helpers.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20e3680a04aabf38135fa1bdd8a7455e3aab8f1c",
+      "size": 1353,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/20e3680a04aabf38135fa1bdd8a7455e3aab8f1c"
+    },
+    {
+      "path": "src/api/types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38ec522ca74030410725e227db9fc7f4e10005ad",
+      "size": 8532,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/38ec522ca74030410725e227db9fc7f4e10005ad"
+    },
+    {
+      "path": "src/api/wrapper.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f1119497f474f9da5465623a2a80caef25b3b79",
+      "size": 214,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7f1119497f474f9da5465623a2a80caef25b3b79"
+    },
+    {
+      "path": "src/assemble",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "563292a7c37844d78ea111b7d003f6bbf0457ee8",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/563292a7c37844d78ea111b7d003f6bbf0457ee8"
+    },
+    {
+      "path": "src/assemble/assemble_test_cases.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e3ef0f5fb1282721a681dc4b728cb174a467f50",
+      "size": 3521,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/2e3ef0f5fb1282721a681dc4b728cb174a467f50"
+    },
+    {
+      "path": "src/assemble/assemble_test_cases_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86db46572dd39b4c959b053d6beadeaa25b7772a",
+      "size": 8690,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/86db46572dd39b4c959b053d6beadeaa25b7772a"
+    },
+    {
+      "path": "src/assemble/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "549c096ae271245d2e5853dd673c6ea582aad701",
+      "size": 62,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/549c096ae271245d2e5853dd673c6ea582aad701"
+    },
+    {
+      "path": "src/assemble/types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49ba81fd66e85d11685812ece797f99ffaf3085f",
+      "size": 272,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/49ba81fd66e85d11685812ece797f99ffaf3085f"
+    },
+    {
+      "path": "src/cli",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "017429ff6942df47fedc2d565571e5c5173f616e",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/017429ff6942df47fedc2d565571e5c5173f616e"
+    },
+    {
+      "path": "src/cli/helpers.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7935e779f06977638384c088373065e5ff874735",
+      "size": 5905,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7935e779f06977638384c088373065e5ff874735"
+    },
+    {
+      "path": "src/cli/helpers_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4244f5ac13a66bf72d4ed99597e88ce2474b32a7",
+      "size": 10215,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/4244f5ac13a66bf72d4ed99597e88ce2474b32a7"
+    },
+    {
+      "path": "src/cli/i18n.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be243e9a1eeced9351462b0a8ce056d432e6c3f0",
+      "size": 1442,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/be243e9a1eeced9351462b0a8ce056d432e6c3f0"
+    },
+    {
+      "path": "src/cli/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b352f2e5c1729ae736f8d1925db1b3a93e3a7688",
+      "size": 2095,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b352f2e5c1729ae736f8d1925db1b3a93e3a7688"
+    },
+    {
+      "path": "src/cli/install_validator.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4baefe9941197437ae4cb0f94815a0b465578f8d",
+      "size": 505,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/4baefe9941197437ae4cb0f94815a0b465578f8d"
+    },
+    {
+      "path": "src/cli/run.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff006b9b324b7518927e3856cd9f05f32f765a5a",
+      "size": 1033,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/ff006b9b324b7518927e3856cd9f05f32f765a5a"
+    },
+    {
+      "path": "src/cli/validate_node_engine_version.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7b36619ffdc29cb1b7282692287f7bd64452b74",
+      "size": 1148,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f7b36619ffdc29cb1b7282692287f7bd64452b74"
+    },
+    {
+      "path": "src/cli/validate_node_engine_version_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cdf0852ec766e2c99a8be67f7ebfb9103547dbbe",
+      "size": 2308,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/cdf0852ec766e2c99a8be67f7ebfb9103547dbbe"
+    },
+    {
+      "path": "src/configuration",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3fac8b551ba5a42f1d8a735aba4d165a981edea8",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/3fac8b551ba5a42f1d8a735aba4d165a981edea8"
+    },
+    {
+      "path": "src/configuration/argv_parser.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c2f289217e2f2050d4696ba541517076779a0a4",
+      "size": 6777,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1c2f289217e2f2050d4696ba541517076779a0a4"
+    },
+    {
+      "path": "src/configuration/argv_parser_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "459e3c1dd7a9f68fbf81c0d377db6c5ba5a8e7d8",
+      "size": 1635,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/459e3c1dd7a9f68fbf81c0d377db6c5ba5a8e7d8"
+    },
+    {
+      "path": "src/configuration/check_schema.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0eb2568a65f44a7cb8dd7d4c8d2dd529b0a16113",
+      "size": 1232,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/0eb2568a65f44a7cb8dd7d4c8d2dd529b0a16113"
+    },
+    {
+      "path": "src/configuration/default_configuration.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8632b3769c1a5cd146492598ea4dcbf3ace94822",
+      "size": 503,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/8632b3769c1a5cd146492598ea4dcbf3ace94822"
+    },
+    {
+      "path": "src/configuration/from_file.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9a3d6d59e986f648b668e646df817a823352595",
+      "size": 5310,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/d9a3d6d59e986f648b668e646df817a823352595"
+    },
+    {
+      "path": "src/configuration/from_file_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a5efb715eaa123a2bedfb9b859170466e07975d",
+      "size": 9573,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/3a5efb715eaa123a2bedfb9b859170466e07975d"
+    },
+    {
+      "path": "src/configuration/helpers.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f92451410e590cfec00febb165d8bab3207e9b9a",
+      "size": 158,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f92451410e590cfec00febb165d8bab3207e9b9a"
+    },
+    {
+      "path": "src/configuration/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09bd57759f7d8af9cf37925b657660b69cba195f",
+      "size": 332,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/09bd57759f7d8af9cf37925b657660b69cba195f"
+    },
+    {
+      "path": "src/configuration/locate_file.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03e1738c676c0ab59ff6cd2aefa281aec1d832ec",
+      "size": 351,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/03e1738c676c0ab59ff6cd2aefa281aec1d832ec"
+    },
+    {
+      "path": "src/configuration/merge_configurations.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b3b3da0423c4d18b99cb6b28fc3686bb1c8a73d",
+      "size": 1211,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/5b3b3da0423c4d18b99cb6b28fc3686bb1c8a73d"
+    },
+    {
+      "path": "src/configuration/merge_configurations_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39e657fd1a0f372e460b6eef99881b0548cdec22",
+      "size": 2231,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/39e657fd1a0f372e460b6eef99881b0548cdec22"
+    },
+    {
+      "path": "src/configuration/parse_configuration.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0949f9478e5e32df344c1d9d41328cbf75f5082e",
+      "size": 1144,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/0949f9478e5e32df344c1d9d41328cbf75f5082e"
+    },
+    {
+      "path": "src/configuration/split_format_descriptor.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "347b397a45f393a91422bef2e40af00781981b05",
+      "size": 2170,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/347b397a45f393a91422bef2e40af00781981b05"
+    },
+    {
+      "path": "src/configuration/split_format_descriptor_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14308402be46f09f56a4a557c46f8c97a7f9e979",
+      "size": 8102,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/14308402be46f09f56a4a557c46f8c97a7f9e979"
+    },
+    {
+      "path": "src/configuration/types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4338a44e8b4ac3e7a3cc65a3eef1b790fd17a5c0",
+      "size": 5157,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/4338a44e8b4ac3e7a3cc65a3eef1b790fd17a5c0"
+    },
+    {
+      "path": "src/configuration/validate_configuration.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f724ed9701118bd265b55602af23272689d0ca7a",
+      "size": 1141,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f724ed9701118bd265b55602af23272689d0ca7a"
+    },
+    {
+      "path": "src/environment",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "01a9e697a6a06f7e161998ae2c34401f048c40af",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/01a9e697a6a06f7e161998ae2c34401f048c40af"
+    },
+    {
+      "path": "src/environment/console_logger.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84092d3d2f55f3602b4c96a7ff7c5ba427028c87",
+      "size": 818,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/84092d3d2f55f3602b4c96a7ff7c5ba427028c87"
+    },
+    {
+      "path": "src/environment/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5dbcb951c9a571c0261f7635d942536d1e2bf22b",
+      "size": 59,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/5dbcb951c9a571c0261f7635d942536d1e2bf22b"
+    },
+    {
+      "path": "src/environment/make_environment.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "138477b02910d4523ac6c7b534d6f8d778fb50e5",
+      "size": 612,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/138477b02910d4523ac6c7b534d6f8d778fb50e5"
+    },
+    {
+      "path": "src/environment/types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb07c389f50dd2697a0450b72ffc800d81d999d8",
+      "size": 1349,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/bb07c389f50dd2697a0450b72ffc800d81d999d8"
+    },
+    {
+      "path": "src/filter",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f7c837ff8360d460a669d4fae18320d4ce4733d5",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/f7c837ff8360d460a669d4fae18320d4ce4733d5"
+    },
+    {
+      "path": "src/filter/filter_plugin.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dbf43c6cb2194ce8a6aadaac975eacf7c21cf4f8",
+      "size": 962,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/dbf43c6cb2194ce8a6aadaac975eacf7c21cf4f8"
+    },
+    {
+      "path": "src/filter/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "763eaad60093ae2ee9bdaa59e159baeb1abade04",
+      "size": 100,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/763eaad60093ae2ee9bdaa59e159baeb1abade04"
+    },
+    {
+      "path": "src/filter/types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38b131345dc362057fed0636c00f1e2d5c148e47",
+      "size": 509,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/38b131345dc362057fed0636c00f1e2d5c148e47"
+    },
+    {
+      "path": "src/filter_stack_trace.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "779903769985b1752824ea2262dd96637a6f6dac",
+      "size": 1188,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/779903769985b1752824ea2262dd96637a6f6dac"
+    },
+    {
+      "path": "src/formatter",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5cddd56b1be03e57aafd14eb6b071d113b752d34",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/5cddd56b1be03e57aafd14eb6b071d113b752d34"
+    },
+    {
+      "path": "src/formatter/builder.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ee857101728f7d841dcbc05e065f23d40298d34",
+      "size": 4188,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/5ee857101728f7d841dcbc05e065f23d40298d34"
+    },
+    {
+      "path": "src/formatter/builder_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bbac997807428a3b9e513e8ca927cd4b5ffbe20",
+      "size": 1042,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/3bbac997807428a3b9e513e8ca927cd4b5ffbe20"
+    },
+    {
+      "path": "src/formatter/builtin",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9a05b4083e943f6f3a9e03c30e2e2e00ee35926f",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/9a05b4083e943f6f3a9e03c30e2e2e00ee35926f"
+    },
+    {
+      "path": "src/formatter/builtin/html.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee49a569943a592bc72ef22407b2c215cd0511c9",
+      "size": 2465,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/ee49a569943a592bc72ef22407b2c215cd0511c9"
+    },
+    {
+      "path": "src/formatter/builtin/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7b6097b7cfea4eed270470be1a50a0c67b15a7b",
+      "size": 1882,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a7b6097b7cfea4eed270470be1a50a0c67b15a7b"
+    },
+    {
+      "path": "src/formatter/builtin/message.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51e41e98f89f63d72e5d5a61f9e05ef7deb75fb2",
+      "size": 218,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/51e41e98f89f63d72e5d5a61f9e05ef7deb75fb2"
+    },
+    {
+      "path": "src/formatter/create_stream.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f23c64fd8a7853b96d04598a63bbeb4592a8d393",
+      "size": 769,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f23c64fd8a7853b96d04598a63bbeb4592a8d393"
+    },
+    {
+      "path": "src/formatter/find_class_or_plugin.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d3dd1abbc44324cf53200149901bc3a37c9e302",
+      "size": 493,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/3d3dd1abbc44324cf53200149901bc3a37c9e302"
+    },
+    {
+      "path": "src/formatter/fixtures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e2a623cc1bb0d2a3f83442c3e2cd934297d6f588",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/e2a623cc1bb0d2a3f83442c3e2cd934297d6f588"
+    },
+    {
+      "path": "src/formatter/fixtures/legacy_esm.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2174f613fc9313dd877a961adf242d3612cde028",
+      "size": 34,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/2174f613fc9313dd877a961adf242d3612cde028"
+    },
+    {
+      "path": "src/formatter/fixtures/legacy_exports_dot_default.cjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba19370b50f465c1ce90f602649d771119299852",
+      "size": 48,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/ba19370b50f465c1ce90f602649d771119299852"
+    },
+    {
+      "path": "src/formatter/fixtures/legacy_module_dot_exports.cjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de99185bc098296fffb39a4c14afb8c1c8b49639",
+      "size": 47,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/de99185bc098296fffb39a4c14afb8c1c8b49639"
+    },
+    {
+      "path": "src/formatter/fixtures/plugin_esm.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f011f8b0961ee84c71796738389958fff9613b4",
+      "size": 58,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1f011f8b0961ee84c71796738389958fff9613b4"
+    },
+    {
+      "path": "src/formatter/fixtures/plugin_exports_dot_default.cjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80821ce321e6c8c92063339c65695c461c27ad3d",
+      "size": 61,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/80821ce321e6c8c92063339c65695c461c27ad3d"
+    },
+    {
+      "path": "src/formatter/fixtures/plugin_module_dot_exports.cjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47584fab3ae2429a76eabbfddfcd68dc666070d0",
+      "size": 60,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/47584fab3ae2429a76eabbfddfcd68dc666070d0"
+    },
+    {
+      "path": "src/formatter/get_color_fns.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "436195f182d4edc3a165834e3686f646cb411c89",
+      "size": 2173,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/436195f182d4edc3a165834e3686f646cb411c89"
+    },
+    {
+      "path": "src/formatter/helpers",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3749d7668b6ee1d5854dc3174f34eef3318d9981",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/3749d7668b6ee1d5854dc3174f34eef3318d9981"
+    },
+    {
+      "path": "src/formatter/helpers/duration_helpers.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3296aedd0150095f762c73a5306a43d41f3b2be",
+      "size": 229,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/c3296aedd0150095f762c73a5306a43d41f3b2be"
+    },
+    {
+      "path": "src/formatter/helpers/duration_helpers_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bfa2ecc4132bc458c9b92fb05ed608cda8b8eca9",
+      "size": 494,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/bfa2ecc4132bc458c9b92fb05ed608cda8b8eca9"
+    },
+    {
+      "path": "src/formatter/helpers/event_data_collector.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c37e88f1e85c78eaa4f7e2b1efab4993a69d334",
+      "size": 4891,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1c37e88f1e85c78eaa4f7e2b1efab4993a69d334"
+    },
+    {
+      "path": "src/formatter/helpers/formatters.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82f9e7defa215a4befaed651d151b7d615e983d0",
+      "size": 850,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/82f9e7defa215a4befaed651d151b7d615e983d0"
+    },
+    {
+      "path": "src/formatter/helpers/gherkin_document_parser.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b47631819096b234bb440de66f6bef9e10952fa",
+      "size": 2471,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/8b47631819096b234bb440de66f6bef9e10952fa"
+    },
+    {
+      "path": "src/formatter/helpers/gherkin_document_parser_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b983782cda1891a2f26187930cdad393f7add3fd",
+      "size": 11591,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b983782cda1891a2f26187930cdad393f7add3fd"
+    },
+    {
+      "path": "src/formatter/helpers/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7f430ded5b65eadcfa206cf4a7265b268fa5198",
+      "size": 587,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f7f430ded5b65eadcfa206cf4a7265b268fa5198"
+    },
+    {
+      "path": "src/formatter/helpers/issue_helpers.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "944668d267ded0361e9bc73cbd79b93e6877edb9",
+      "size": 2612,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/944668d267ded0361e9bc73cbd79b93e6877edb9"
+    },
+    {
+      "path": "src/formatter/helpers/issue_helpers_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ee4660e3b24eb6c91b16b6d815cb4bd1969fc07",
+      "size": 8544,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7ee4660e3b24eb6c91b16b6d815cb4bd1969fc07"
+    },
+    {
+      "path": "src/formatter/helpers/keyword_type.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59be776d02f53359cb85a2052bc83c86b2e25fcb",
+      "size": 969,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/59be776d02f53359cb85a2052bc83c86b2e25fcb"
+    },
+    {
+      "path": "src/formatter/helpers/keyword_type_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "659070319ebeb5059679a18964e66d0c0900729d",
+      "size": 2953,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/659070319ebeb5059679a18964e66d0c0900729d"
+    },
+    {
+      "path": "src/formatter/helpers/location_helpers.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81591ecbf8f73360edde7d499c2e647d7af4b8e1",
+      "size": 326,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/81591ecbf8f73360edde7d499c2e647d7af4b8e1"
+    },
+    {
+      "path": "src/formatter/helpers/pickle_parser.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc2a6c7d206b3f99069b021768437026b3618383",
+      "size": 1503,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/fc2a6c7d206b3f99069b021768437026b3618383"
+    },
+    {
+      "path": "src/formatter/helpers/step_argument_formatter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92e5e163865456203c636942d2bc88a369709ae6",
+      "size": 1150,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/92e5e163865456203c636942d2bc88a369709ae6"
+    },
+    {
+      "path": "src/formatter/helpers/summary_helpers.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe4e0d0f8d345d51f1708afe3aab248420a68015",
+      "size": 3230,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/fe4e0d0f8d345d51f1708afe3aab248420a68015"
+    },
+    {
+      "path": "src/formatter/helpers/summary_helpers_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f529cfa475b43b7b6ca8cbd70fe35cab19c04c2a",
+      "size": 11317,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f529cfa475b43b7b6ca8cbd70fe35cab19c04c2a"
+    },
+    {
+      "path": "src/formatter/helpers/test_case_attempt_formatter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3c9543dc2f97e2790ac9a448bad30015150b229",
+      "size": 4056,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e3c9543dc2f97e2790ac9a448bad30015150b229"
+    },
+    {
+      "path": "src/formatter/helpers/test_case_attempt_parser.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f5c187f78b66d9715db220e6bd838cf1bf12e05",
+      "size": 5770,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/8f5c187f78b66d9715db220e6bd838cf1bf12e05"
+    },
+    {
+      "path": "src/formatter/helpers/test_case_attempt_parser_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dba486da3f6f612693f1f35744e99f89762e02d4",
+      "size": 2220,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/dba486da3f6f612693f1f35744e99f89762e02d4"
+    },
+    {
+      "path": "src/formatter/helpers/usage_helpers",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "71136ce4c1ee95a89d06129db1735f11a064ca1e",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/71136ce4c1ee95a89d06129db1735f11a064ca1e"
+    },
+    {
+      "path": "src/formatter/helpers/usage_helpers/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b0ccb052e5ed26efad4de18732149b766c34c7b",
+      "size": 4251,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/5b0ccb052e5ed26efad4de18732149b766c34c7b"
+    },
+    {
+      "path": "src/formatter/helpers/usage_helpers/index_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da34b4bf4325c7ce19cdca8b44b444e6c279fbe8",
+      "size": 2210,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/da34b4bf4325c7ce19cdca8b44b444e6c279fbe8"
+    },
+    {
+      "path": "src/formatter/import_code.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "133446fc8b115e77b9dc8aa5df8997ce05532010",
+      "size": 556,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/133446fc8b115e77b9dc8aa5df8997ce05532010"
+    },
+    {
+      "path": "src/formatter/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e709db26ad5be9cd7b7cc2d631f4b7e7967df3c0",
+      "size": 2392,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e709db26ad5be9cd7b7cc2d631f4b7e7967df3c0"
+    },
+    {
+      "path": "src/formatter/json_formatter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "157d853055f867b0f17200593aca563a927d2a62",
+      "size": 10301,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/157d853055f867b0f17200593aca563a927d2a62"
+    },
+    {
+      "path": "src/formatter/json_formatter_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d21acddd4f0a741c29c74c5e6a7f7ad276bd9541",
+      "size": 16657,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/d21acddd4f0a741c29c74c5e6a7f7ad276bd9541"
+    },
+    {
+      "path": "src/formatter/progress_bar_formatter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb9c0f554dc549ee32c319d94814159f010748d0",
+      "size": 4337,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/bb9c0f554dc549ee32c319d94814159f010748d0"
+    },
+    {
+      "path": "src/formatter/progress_bar_formatter_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c27e199aef9db55a0543b8818e5ee9b9a2407c19",
+      "size": 14488,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/c27e199aef9db55a0543b8818e5ee9b9a2407c19"
+    },
+    {
+      "path": "src/formatter/progress_formatter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "340495099454b1c5bef656c3c4e19a96ca92becd",
+      "size": 1388,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/340495099454b1c5bef656c3c4e19a96ca92becd"
+    },
+    {
+      "path": "src/formatter/progress_formatter_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38d87b0bd3f110f2c7f2c3cb5fafc65b16622972",
+      "size": 3393,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/38d87b0bd3f110f2c7f2c3cb5fafc65b16622972"
+    },
+    {
+      "path": "src/formatter/rerun_formatter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2370757df4497ec600947a733ce4beca2aff919a",
+      "size": 2205,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/2370757df4497ec600947a733ce4beca2aff919a"
+    },
+    {
+      "path": "src/formatter/rerun_formatter_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a571a02d03af34de7b58db74e6900fbd99cd222",
+      "size": 6028,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/0a571a02d03af34de7b58db74e6900fbd99cd222"
+    },
+    {
+      "path": "src/formatter/resolve_implementation.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8da6993ad56764c4b30fc21abbc36d56be7c6db",
+      "size": 688,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a8da6993ad56764c4b30fc21abbc36d56be7c6db"
+    },
+    {
+      "path": "src/formatter/resolve_implementation_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66ace52539ddf65e8e6eb89d0d97661aa88abd86",
+      "size": 1738,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/66ace52539ddf65e8e6eb89d0d97661aa88abd86"
+    },
+    {
+      "path": "src/formatter/snippets_formatter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c03727f01331429a6b28db08877cdb5b4eb05f5",
+      "size": 1284,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/0c03727f01331429a6b28db08877cdb5b4eb05f5"
+    },
+    {
+      "path": "src/formatter/step_definition_snippet_builder",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1232f266bb5706b50239b804082c2191dce39c68",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/1232f266bb5706b50239b804082c2191dce39c68"
+    },
+    {
+      "path": "src/formatter/step_definition_snippet_builder/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "582e604bd112b5f9bb9cc553f33913333c56acbb",
+      "size": 2793,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/582e604bd112b5f9bb9cc553f33913333c56acbb"
+    },
+    {
+      "path": "src/formatter/step_definition_snippet_builder/index_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10669e2e6fcde7075052e18231f04e30e3996693",
+      "size": 6216,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/10669e2e6fcde7075052e18231f04e30e3996693"
+    },
+    {
+      "path": "src/formatter/step_definition_snippet_builder/javascript_snippet_syntax.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3100c86849c952b01bd9e69f8a8d2fcbfe33b27d",
+      "size": 2134,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/3100c86849c952b01bd9e69f8a8d2fcbfe33b27d"
+    },
+    {
+      "path": "src/formatter/step_definition_snippet_builder/javascript_snippet_syntax_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8563adfd134b7a5036c71d81c6d657054c732244",
+      "size": 5740,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/8563adfd134b7a5036c71d81c6d657054c732244"
+    },
+    {
+      "path": "src/formatter/step_definition_snippet_builder/snippet_syntax.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e617ab4c02835867adda1c14fd8c4d0f16beb18e",
+      "size": 482,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e617ab4c02835867adda1c14fd8c4d0f16beb18e"
+    },
+    {
+      "path": "src/formatter/summary_formatter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d4d58b118d7ce9742c748aafbb3134ad5fe956e",
+      "size": 2917,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/0d4d58b118d7ce9742c748aafbb3134ad5fe956e"
+    },
+    {
+      "path": "src/formatter/summary_formatter_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8bbe8a485f30c0c99b89bf84af8c808af5d62228",
+      "size": 8487,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/8bbe8a485f30c0c99b89bf84af8c808af5d62228"
+    },
+    {
+      "path": "src/formatter/usage_formatter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a366c2c03ec46139eac358074876711794308eac",
+      "size": 2608,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a366c2c03ec46139eac358074876711794308eac"
+    },
+    {
+      "path": "src/formatter/usage_formatter_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b90c562b8204bc069d845a9d4e397b7db3578a7a",
+      "size": 6311,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b90c562b8204bc069d845a9d4e397b7db3578a7a"
+    },
+    {
+      "path": "src/formatter/usage_json_formatter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf40ad708187955184e4ceca2bd947a8658b0c1b",
+      "size": 1047,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/cf40ad708187955184e4ceca2bd947a8658b0c1b"
+    },
+    {
+      "path": "src/formatter/usage_json_formatter_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1280493240be37fdb9872e71458e18d4cb1b019c",
+      "size": 2178,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1280493240be37fdb9872e71458e18d4cb1b019c"
+    },
+    {
+      "path": "src/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98372d06727c11ddfc99be06576092fafcf8446e",
+      "size": 3389,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/98372d06727c11ddfc99be06576092fafcf8446e"
+    },
+    {
+      "path": "src/models",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9d2f4c0c802cffec86c1a5d1cbae331a81d04998",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/9d2f4c0c802cffec86c1a5d1cbae331a81d04998"
+    },
+    {
+      "path": "src/models/data_table.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3769bb195abd837a6a4555516d09a077a7585ffa",
+      "size": 1451,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/3769bb195abd837a6a4555516d09a077a7585ffa"
+    },
+    {
+      "path": "src/models/data_table_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea81cd0fee67531189cc206a8f9ae1c82607e8d6",
+      "size": 3580,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/ea81cd0fee67531189cc206a8f9ae1c82607e8d6"
+    },
+    {
+      "path": "src/models/definition.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90d75dc30eb6f6f558f3b87b59d725057e624acf",
+      "size": 2467,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/90d75dc30eb6f6f558f3b87b59d725057e624acf"
+    },
+    {
+      "path": "src/models/gherkin_step_keyword.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b55c67e3718353c2ff1321561eb058be246b1018",
+      "size": 71,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b55c67e3718353c2ff1321561eb058be246b1018"
+    },
+    {
+      "path": "src/models/step_definition.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4fa150910571f1127f27db98244681826add989",
+      "size": 1614,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f4fa150910571f1127f27db98244681826add989"
+    },
+    {
+      "path": "src/models/test_case_hook_definition.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f418bf9bed8f28d11c3598748926305681de4079",
+      "size": 1161,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f418bf9bed8f28d11c3598748926305681de4079"
+    },
+    {
+      "path": "src/models/test_case_hook_definition_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59367eaba54ab7a4514d2a2036b538c252b91891",
+      "size": 1796,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/59367eaba54ab7a4514d2a2036b538c252b91891"
+    },
+    {
+      "path": "src/models/test_run_hook_definition.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d095c7ef7c0a1ec655694d1f5c58690b952104b",
+      "size": 414,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/2d095c7ef7c0a1ec655694d1f5c58690b952104b"
+    },
+    {
+      "path": "src/models/test_step_hook_definition.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6bd1861f60eec395cba02645c52cbac2acde2c0c",
+      "size": 1096,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/6bd1861f60eec395cba02645c52cbac2acde2c0c"
+    },
+    {
+      "path": "src/models/test_step_hook_definition_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4127dc8bc4860d08e2dd10d1bd89b621ed64eb1b",
+      "size": 1796,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/4127dc8bc4860d08e2dd10d1bd89b621ed64eb1b"
+    },
+    {
+      "path": "src/paths",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dd6636e1f649694dbad9f58b37f2b8ed53e00a8c",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/dd6636e1f649694dbad9f58b37f2b8ed53e00a8c"
+    },
+    {
+      "path": "src/paths/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "016861e852dca1e0ce962f0d85e71d72126dfc57",
+      "size": 48,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/016861e852dca1e0ce962f0d85e71d72126dfc57"
+    },
+    {
+      "path": "src/paths/paths.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acc7600f4fcd2cd1507b4e0075dba6bbfed483b8",
+      "size": 4389,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/acc7600f4fcd2cd1507b4e0075dba6bbfed483b8"
+    },
+    {
+      "path": "src/paths/paths_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "760ddc7653fd408f02e23324c4202faf64c3ccd3",
+      "size": 12188,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/760ddc7653fd408f02e23324c4202faf64c3ccd3"
+    },
+    {
+      "path": "src/paths/types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac8c896dcb2f7c112c49beedf5590ccbf6542029",
+      "size": 372,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/ac8c896dcb2f7c112c49beedf5590ccbf6542029"
+    },
+    {
+      "path": "src/pickle_filter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b49fac0c029f7de5d5bea972354a7b1681cec4c",
+      "size": 4053,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7b49fac0c029f7de5d5bea972354a7b1681cec4c"
+    },
+    {
+      "path": "src/pickle_filter_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "137421a9c8cba5afefe75a4adafe8a2f89705e2c",
+      "size": 17904,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/137421a9c8cba5afefe75a4adafe8a2f89705e2c"
+    },
+    {
+      "path": "src/plugin",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1d2ae1da6770593e0b7d09696ebaf8dd652d9f6f",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/1d2ae1da6770593e0b7d09696ebaf8dd652d9f6f"
+    },
+    {
+      "path": "src/plugin/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dc5af7d7f82ec43857357d67117b67e8bd76964b",
+      "size": 57,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/dc5af7d7f82ec43857357d67117b67e8bd76964b"
+    },
+    {
+      "path": "src/plugin/plugin_manager.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16ec02ac7b923d1e002d38efb6a30886d951790c",
+      "size": 5481,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/16ec02ac7b923d1e002d38efb6a30886d951790c"
+    },
+    {
+      "path": "src/plugin/plugin_manager_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e98fff8b3888edeb5ba67abe37893786225607e9",
+      "size": 12123,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e98fff8b3888edeb5ba67abe37893786225607e9"
+    },
+    {
+      "path": "src/plugin/types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a1c55d29d15a3f0e23e9ca8b94aa29e3f8503d1d",
+      "size": 4426,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a1c55d29d15a3f0e23e9ca8b94aa29e3f8503d1d"
+    },
+    {
+      "path": "src/publish",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6be8b30a12fd1b73b1a8f9346e1eaf6809eae9b9",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/6be8b30a12fd1b73b1a8f9346e1eaf6809eae9b9"
+    },
+    {
+      "path": "src/publish/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c31a084b80b82421684574343bd1ffec9d4b121",
+      "size": 103,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/3c31a084b80b82421684574343bd1ffec9d4b121"
+    },
+    {
+      "path": "src/publish/publish_plugin.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b352c6b2c99b86e6040237cc5f3015b2ab29fd65",
+      "size": 3572,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b352c6b2c99b86e6040237cc5f3015b2ab29fd65"
+    },
+    {
+      "path": "src/publish/types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d65f72b54b738074be00143be51a26731f23323a",
+      "size": 273,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/d65f72b54b738074be00143be51a26731f23323a"
+    },
+    {
+      "path": "src/runtime",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0ac6d1a2f663db870ffe718ad0524717eb5d8156",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/0ac6d1a2f663db870ffe718ad0524717eb5d8156"
+    },
+    {
+      "path": "src/runtime/attachment_manager",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "52a40e703b2cd33266ba0d7cbca6145d0b980f0b",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/52a40e703b2cd33266ba0d7cbca6145d0b980f0b"
+    },
+    {
+      "path": "src/runtime/attachment_manager/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "623fd4c77b20bf61cb6e8fc9ea30a2e99c270837",
+      "size": 4737,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/623fd4c77b20bf61cb6e8fc9ea30a2e99c270837"
+    },
+    {
+      "path": "src/runtime/attachment_manager/index_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a2ab9b97c9e319a503bbb65512941cdd79ad016",
+      "size": 15042,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/6a2ab9b97c9e319a503bbb65512941cdd79ad016"
+    },
+    {
+      "path": "src/runtime/coordinator.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f8f5b7d4233d728e6962a752065f3d740844728",
+      "size": 1386,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/4f8f5b7d4233d728e6962a752065f3d740844728"
+    },
+    {
+      "path": "src/runtime/format_error.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3082e7fed15d84daf025ca891af49527deecba59",
+      "size": 1091,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/3082e7fed15d84daf025ca891af49527deecba59"
+    },
+    {
+      "path": "src/runtime/format_error_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3167923d14574eb113340b3c8bb21b1ac4a13d4",
+      "size": 2813,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b3167923d14574eb113340b3c8bb21b1ac4a13d4"
+    },
+    {
+      "path": "src/runtime/helpers.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a5c25d72743bc6c56f3239b6a6f06e6265ee930",
+      "size": 2125,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7a5c25d72743bc6c56f3239b6a6f06e6265ee930"
+    },
+    {
+      "path": "src/runtime/helpers_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3b26c55a4f341978fdfee54a29e5deb699b4c69",
+      "size": 2783,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/c3b26c55a4f341978fdfee54a29e5deb699b4c69"
+    },
+    {
+      "path": "src/runtime/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a917287a26ae9c548de458f83f8b3b43d5c0ab5",
+      "size": 81,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/9a917287a26ae9c548de458f83f8b3b43d5c0ab5"
+    },
+    {
+      "path": "src/runtime/make_runtime.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a68aa1d01f7f12637449b5dc1739f7d0dd5333b6",
+      "size": 2391,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a68aa1d01f7f12637449b5dc1739f7d0dd5333b6"
+    },
+    {
+      "path": "src/runtime/make_suggestion.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f2aab044bd25dc01cc573fca9cc26420d838565",
+      "size": 1099,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/9f2aab044bd25dc01cc573fca9cc26420d838565"
+    },
+    {
+      "path": "src/runtime/make_suggestion_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "690c94151a6f542e544c325f4612cc3f6bdcc19a",
+      "size": 1546,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/690c94151a6f542e544c325f4612cc3f6bdcc19a"
+    },
+    {
+      "path": "src/runtime/parallel",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8e951077b2780a15799bfeb220323f4c554e827c",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/8e951077b2780a15799bfeb220323f4c554e827c"
+    },
+    {
+      "path": "src/runtime/parallel/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "826c20a68719127271e585f348a3829408f16493",
+      "size": 2110,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/826c20a68719127271e585f348a3829408f16493"
+    },
+    {
+      "path": "src/runtime/parallel/adapter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0da1a9ae650289e03716d6deb5b6d46cfd2ef51b",
+      "size": 6495,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/0da1a9ae650289e03716d6deb5b6d46cfd2ef51b"
+    },
+    {
+      "path": "src/runtime/parallel/run_worker.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dea7f485f11055ce5fe2586050e1a186883a9683",
+      "size": 741,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/dea7f485f11055ce5fe2586050e1a186883a9683"
+    },
+    {
+      "path": "src/runtime/parallel/types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59c1f1ae9b97e157987a28d176c5dc8745f943b3",
+      "size": 1235,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/59c1f1ae9b97e157987a28d176c5dc8745f943b3"
+    },
+    {
+      "path": "src/runtime/parallel/worker.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd38fa6d7454573f280f708093f680d1c27a95f2",
+      "size": 3662,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/dd38fa6d7454573f280f708093f680d1c27a95f2"
+    },
+    {
+      "path": "src/runtime/scope",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5e2e72e9d2fcf8cc34937057007f1b9d7029a291",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/5e2e72e9d2fcf8cc34937057007f1b9d7029a291"
+    },
+    {
+      "path": "src/runtime/scope/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51f0e668b780200415845d44eb99c6ffe318964e",
+      "size": 67,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/51f0e668b780200415845d44eb99c6ffe318964e"
+    },
+    {
+      "path": "src/runtime/scope/make_proxy.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4d70a8e7c93357df427a1b5b854d7ad4767ea29",
+      "size": 1158,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a4d70a8e7c93357df427a1b5b854d7ad4767ea29"
+    },
+    {
+      "path": "src/runtime/scope/test_case_scope.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "496c3c0a2adafb75d6b1a91107f96b0fb7ef4134",
+      "size": 1203,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/496c3c0a2adafb75d6b1a91107f96b0fb7ef4134"
+    },
+    {
+      "path": "src/runtime/scope/test_case_scope_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d137eea660b17460ade4b938d5f126f97f3655a",
+      "size": 1588,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/3d137eea660b17460ade4b938d5f126f97f3655a"
+    },
+    {
+      "path": "src/runtime/scope/test_run_scope.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4d1e780aa534c17684a808d88f5fc755b0f3cbd",
+      "size": 1170,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e4d1e780aa534c17684a808d88f5fc755b0f3cbd"
+    },
+    {
+      "path": "src/runtime/scope/test_run_scope_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9eeb4df26ba4bff8142e56fc856c8fda5425e1df",
+      "size": 559,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/9eeb4df26ba4bff8142e56fc856c8fda5425e1df"
+    },
+    {
+      "path": "src/runtime/serial",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a79247fdeb9fa13e44eb624e3a006af249b6ef21",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/a79247fdeb9fa13e44eb624e3a006af249b6ef21"
+    },
+    {
+      "path": "src/runtime/serial/adapter.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a96854d637efb8ce2871d54a7aa8c79a66d7abf0",
+      "size": 1369,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a96854d637efb8ce2871d54a7aa8c79a66d7abf0"
+    },
+    {
+      "path": "src/runtime/step_runner.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a648390b8a85549c49bc3abd6a5054703545582f",
+      "size": 2528,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a648390b8a85549c49bc3abd6a5054703545582f"
+    },
+    {
+      "path": "src/runtime/stopwatch.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9284e4a2bb76985240d4a989f187b2feff137963",
+      "size": 1122,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/9284e4a2bb76985240d4a989f187b2feff137963"
+    },
+    {
+      "path": "src/runtime/stopwatch_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10bc78579525991d65d46a1090c442988db82ae9",
+      "size": 1780,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/10bc78579525991d65d46a1090c442988db82ae9"
+    },
+    {
+      "path": "src/runtime/test_case_runner.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4d91794d10f645224af2242c2dd2ad592c34abf",
+      "size": 13342,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/c4d91794d10f645224af2242c2dd2ad592c34abf"
+    },
+    {
+      "path": "src/runtime/test_case_runner_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1352772ebe5650538656ddd233ab65af7cf01dce",
+      "size": 18469,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1352772ebe5650538656ddd233ab65af7cf01dce"
+    },
+    {
+      "path": "src/runtime/types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "207b24fd6f4331829dc3b6e3c52bb03b578012ad",
+      "size": 455,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/207b24fd6f4331829dc3b6e3c52bb03b578012ad"
+    },
+    {
+      "path": "src/runtime/worker.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9527465afc19f132995131a12b2fc3a7d0a24514",
+      "size": 5290,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/9527465afc19f132995131a12b2fc3a7d0a24514"
+    },
+    {
+      "path": "src/sharding",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a3878407cc9e32c74e2ac50590d4887126e5f552",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/a3878407cc9e32c74e2ac50590d4887126e5f552"
+    },
+    {
+      "path": "src/sharding/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b032912cccbfa48d65b2042be1f25470758bd9db",
+      "size": 82,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b032912cccbfa48d65b2042be1f25470758bd9db"
+    },
+    {
+      "path": "src/sharding/sharding_plugin.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da7ad2b4bd36206d038b6e4ae9befa7abf06f392",
+      "size": 531,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/da7ad2b4bd36206d038b6e4ae9befa7abf06f392"
+    },
+    {
+      "path": "src/step_arguments.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1bb3dc10ccbe4f3528adc4b84193a752431fc6c8",
+      "size": 645,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1bb3dc10ccbe4f3528adc4b84193a752431fc6c8"
+    },
+    {
+      "path": "src/support_code_library_builder",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8161033230499d22ecc3fdd6682e3fedca03d6c3",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/8161033230499d22ecc3fdd6682e3fedca03d6c3"
+    },
+    {
+      "path": "src/support_code_library_builder/build_parameter_type.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a05258370312fc6efab0aba0406e2fb40f6e50ee",
+      "size": 554,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a05258370312fc6efab0aba0406e2fb40f6e50ee"
+    },
+    {
+      "path": "src/support_code_library_builder/context.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d556a7364d59ec977a32edf12e2094e3ababe6f2",
+      "size": 90,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/d556a7364d59ec977a32edf12e2094e3ababe6f2"
+    },
+    {
+      "path": "src/support_code_library_builder/get_definition_line_and_uri.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1da86db841e96bec5fdd02cdf6af0ab67f617029",
+      "size": 887,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1da86db841e96bec5fdd02cdf6af0ab67f617029"
+    },
+    {
+      "path": "src/support_code_library_builder/get_definition_line_and_uri_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1dfed172303aa3686a9e54a4569ed1b06ecb965c",
+      "size": 565,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/1dfed172303aa3686a9e54a4569ed1b06ecb965c"
+    },
+    {
+      "path": "src/support_code_library_builder/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b298f4b7c0f6c763ebc9b7de1a389ba534112b0",
+      "size": 15020,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/5b298f4b7c0f6c763ebc9b7de1a389ba534112b0"
+    },
+    {
+      "path": "src/support_code_library_builder/index_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89b4ede0e8a44464ab8d2cd0d9fb7c0f4446e651",
+      "size": 26473,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/89b4ede0e8a44464ab8d2cd0d9fb7c0f4446e651"
+    },
+    {
+      "path": "src/support_code_library_builder/parallel_can_assign_helpers.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f697d299817b3208d82311e28be7224b2167aa1b",
+      "size": 564,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f697d299817b3208d82311e28be7224b2167aa1b"
+    },
+    {
+      "path": "src/support_code_library_builder/parallel_can_assign_helpers_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d085840c1fd55a96df040e1c5b5c3cb79623f604",
+      "size": 2095,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/d085840c1fd55a96df040e1c5b5c3cb79623f604"
+    },
+    {
+      "path": "src/support_code_library_builder/sourced_parameter_type_registry.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0fcebd7247112ed1899d84be14401ec7d3a9fa86",
+      "size": 633,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/0fcebd7247112ed1899d84be14401ec7d3a9fa86"
+    },
+    {
+      "path": "src/support_code_library_builder/types.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da9e6e0942a7e2dc3b9122f0750cab71282b1859",
+      "size": 5562,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/da9e6e0942a7e2dc3b9122f0750cab71282b1859"
+    },
+    {
+      "path": "src/support_code_library_builder/validate_arguments.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "808845a11ab456f98a5c174cdef2bf4fbc01f33c",
+      "size": 2541,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/808845a11ab456f98a5c174cdef2bf4fbc01f33c"
+    },
+    {
+      "path": "src/support_code_library_builder/world.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c18ede438c98047620dca3401dcb2595fcc4f743",
+      "size": 908,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/c18ede438c98047620dca3401dcb2595fcc4f743"
+    },
+    {
+      "path": "src/time.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "281b4c12882de541d120486efe16f5ee04d2cf6f",
+      "size": 1863,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/281b4c12882de541d120486efe16f5ee04d2cf6f"
+    },
+    {
+      "path": "src/time_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fe66e793e1f7f7ba92dee831dcb4d8c65253ea2",
+      "size": 1579,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/2fe66e793e1f7f7ba92dee831dcb4d8c65253ea2"
+    },
+    {
+      "path": "src/try_require.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "295cd708088f1a10ed768d46cde56787581e68e3",
+      "size": 1007,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/295cd708088f1a10ed768d46cde56787581e68e3"
+    },
+    {
+      "path": "src/types",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "69299d8a6573543101e5161c574e5577343a32f1",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/69299d8a6573543101e5161c574e5577343a32f1"
+    },
+    {
+      "path": "src/types/assertion-error-formatter",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "18b2079920d1eae0e38448c02ca42e7747e4508b",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/18b2079920d1eae0e38448c02ca42e7747e4508b"
+    },
+    {
+      "path": "src/types/assertion-error-formatter/index.d.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf0e6b01a51b2811ceae38411009f67d49c7a711",
+      "size": 109,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/bf0e6b01a51b2811ceae38411009f67d49c7a711"
+    },
+    {
+      "path": "src/types/index.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61ce130c2b34bd3406cc1b2b05fa6b7efd1ee1d5",
+      "size": 62,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/61ce130c2b34bd3406cc1b2b05fa6b7efd1ee1d5"
+    },
+    {
+      "path": "src/types/is-generator",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "41a250a9a79121e6d6caf377f3382384786b7c38",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/41a250a9a79121e6d6caf377f3382384786b7c38"
+    },
+    {
+      "path": "src/types/is-generator/index.d.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "220e243424be91afaf14ed17289a2fd4f60048d3",
+      "size": 80,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/220e243424be91afaf14ed17289a2fd4f60048d3"
+    },
+    {
+      "path": "src/types/knuth-shuffle-seeded",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0b445b3db1a9fcfb59a7d31c38a765ebc78d27c7",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/0b445b3db1a9fcfb59a7d31c38a765ebc78d27c7"
+    },
+    {
+      "path": "src/types/knuth-shuffle-seeded/index.d.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3fe1b4839ee5f087ba37263e898259e3382d56a",
+      "size": 116,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e3fe1b4839ee5f087ba37263e898259e3382d56a"
+    },
+    {
+      "path": "src/types/stack-chain",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c11993e954f871529b7df91091b10bd1f7ef711b",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/c11993e954f871529b7df91091b10bd1f7ef711b"
+    },
+    {
+      "path": "src/types/stack-chain/index.d.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fbd6d8df4b238c1d11693906e4286fc11c9e0fc8",
+      "size": 69,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/fbd6d8df4b238c1d11693906e4286fc11c9e0fc8"
+    },
+    {
+      "path": "src/types/supports-color",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "40d3c79d7aae746af9edd35419d59d4a4ac27776",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/40d3c79d7aae746af9edd35419d59d4a4ac27776"
+    },
+    {
+      "path": "src/types/supports-color/index.d.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65c2aeb03a4ee46d15360e63e60d9218686ade6d",
+      "size": 391,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/65c2aeb03a4ee46d15360e63e60d9218686ade6d"
+    },
+    {
+      "path": "src/uncaught_exception_manager.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d96308b309b0201b8456625ce413805e9849c20",
+      "size": 395,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/4d96308b309b0201b8456625ce413805e9849c20"
+    },
+    {
+      "path": "src/user_code_runner.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5fec116122996a5bd54a516eed6734ae31f40b7b",
+      "size": 2823,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/5fec116122996a5bd54a516eed6734ae31f40b7b"
+    },
+    {
+      "path": "src/user_code_runner_spec.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f61db5af946984cc2069b0f12bfe7b55a5559621",
+      "size": 9145,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/f61db5af946984cc2069b0f12bfe7b55a5559621"
+    },
+    {
+      "path": "src/value_checker.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7aa7a25c7283114adbe9de8ff3d8adce5d63926b",
+      "size": 339,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7aa7a25c7283114adbe9de8ff3d8adce5d63926b"
+    },
+    {
+      "path": "src/wrapper.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9a72cf747edcb4c59cd10b6c228ebb51c6b16ee",
+      "size": 1908,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/b9a72cf747edcb4c59cd10b6c228ebb51c6b16ee"
+    },
+    {
+      "path": "test-d",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c80e1b5089f1459c1592f925d46d7dd6286723ae",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/c80e1b5089f1459c1592f925d46d7dd6286723ae"
+    },
+    {
+      "path": "test-d/api.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c792f1cc4b0b248b95533be1823410b2730198eb",
+      "size": 282,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/c792f1cc4b0b248b95533be1823410b2730198eb"
+    },
+    {
+      "path": "test-d/attachments.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62a3c4ff46476c2f1548e3e7ac03c738ba2e1b12",
+      "size": 719,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/62a3c4ff46476c2f1548e3e7ac03c738ba2e1b12"
+    },
+    {
+      "path": "test-d/hooks.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0d27494d4b805f05bb2e75384acbc7a451fb799",
+      "size": 1561,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e0d27494d4b805f05bb2e75384acbc7a451fb799"
+    },
+    {
+      "path": "test-d/parallel.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d3ff60f42c7a2ad1b4245327cc55ee09e5ec16f",
+      "size": 194,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/2d3ff60f42c7a2ad1b4245327cc55ee09e5ec16f"
+    },
+    {
+      "path": "test-d/steps.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "163609b80c626f0614fe9910d86cc8dd7f0458ac",
+      "size": 343,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/163609b80c626f0614fe9910d86cc8dd7f0458ac"
+    },
+    {
+      "path": "test-d/world.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7cf652cf145a19f8878506f441ab7cf4f27cd288",
+      "size": 1822,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/7cf652cf145a19f8878506f441ab7cf4f27cd288"
+    },
+    {
+      "path": "test",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c99e0a0a9c732d63eb35d95aeb63a8b51ebcf840",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/c99e0a0a9c732d63eb35d95aeb63a8b51ebcf840"
+    },
+    {
+      "path": "test/fake_logger.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "adc1cceb95bca673347b91b65d7d8223104a6f54",
+      "size": 209,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/adc1cceb95bca673347b91b65d7d8223104a6f54"
+    },
+    {
+      "path": "test/fake_report_server.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67a5d29c4626758290ca7493e4d46cda0a4bc488",
+      "size": 3745,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/67a5d29c4626758290ca7493e4d46cda0a4bc488"
+    },
+    {
+      "path": "test/fixtures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4c9308742ad60bedf18c7029cd5b68927af618ac",
+      "url": "https://api.github.com/repos/troyql/zucchini/git/trees/4c9308742ad60bedf18c7029cd5b68927af618ac"
+    },
+    {
+      "path": "test/fixtures/json_formatter_steps.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dda26bde0f89afec81318b772142ecff288eb035",
+      "size": 1625,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/dda26bde0f89afec81318b772142ecff288eb035"
+    },
+    {
+      "path": "test/fixtures/steps.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "382f0706bee2adc60bc5f8f56ea746f65f1fbd09",
+      "size": 1351,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/382f0706bee2adc60bc5f8f56ea746f65f1fbd09"
+    },
+    {
+      "path": "test/fixtures/usage_steps.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e61a7d5dd963ba39e98163b1f829e011a3703db5",
+      "size": 674,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/e61a7d5dd963ba39e98163b1f829e011a3703db5"
+    },
+    {
+      "path": "test/formatter_helpers.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9e5d22c5091c4f1d13a8ed7a320e1e4f8aa3829",
+      "size": 4923,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/a9e5d22c5091c4f1d13a8ed7a320e1e4f8aa3829"
+    },
+    {
+      "path": "test/gherkin_helpers.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc43ac2e2479925537d57418812e5d3d9b5e5bc6",
+      "size": 3076,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/fc43ac2e2479925537d57418812e5d3d9b5e5bc6"
+    },
+    {
+      "path": "test/runtime_helpers.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd9f8fbe45251537230b72193ad5ffc7a7f2bc32",
+      "size": 1182,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/cd9f8fbe45251537230b72193ad5ffc7a7f2bc32"
+    },
+    {
+      "path": "test/test_helper.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbe85dea2ad655093d04af6a49b6719a464d04bc",
+      "size": 135,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/bbe85dea2ad655093d04af6a49b6719a464d04bc"
+    },
+    {
+      "path": "tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eded03c87e88312f59d3fd83e812f7fe16be290f",
+      "size": 455,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/eded03c87e88312f59d3fd83e812f7fe16be290f"
+    },
+    {
+      "path": "tsconfig.node.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12e7ba66dc4204e86b22193f6d26a1c664638d0e",
+      "size": 169,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/12e7ba66dc4204e86b22193f6d26a1c664638d0e"
+    },
+    {
+      "path": "typedoc.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18a01f4c671cda6b071e954647d675ce79878e2c",
+      "size": 318,
+      "url": "https://api.github.com/repos/troyql/zucchini/git/blobs/18a01f4c671cda6b071e954647d675ce79878e2c"
+    }
+  ],
+  "truncated": false
+}

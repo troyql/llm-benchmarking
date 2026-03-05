@@ -1,0 +1,19 @@
+[project]
+name = "auto-gen-testing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi[standard]>=0.128.0",
+    "pydantic>=2.12.5",
+    "python-multipart>=0.0.22",
+    "typing>=3.10.0.0",
+    "aat-service==1.8.0",
+]
+
+[[tool.uv.index]]
+name = "hub-aat"
+url = "https://australia-southeast1-python.pkg.dev/hub-aat/incubator-python/simple/"
+ 
